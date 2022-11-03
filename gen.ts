@@ -1,31 +1,25 @@
 import { parse, stringify } from "https://deno.land/std@0.161.0/encoding/csv.ts";
 
-const columns = ["ID", "Unknown", "Index", "Offset", "Text"];
-
-const en = await parseLang("./gamedata/lang/en.lang.csv");
-const vstab = await parseLang("./gamedata/lang/vstab.lang.csv");
-const zh = await parseLang("./gamedata/lang/zh.lang.csv");
-
-const maps = {
-  4330293: "区域",
-  10860933: "区域+地点",
-  17915077: "技能",
+type LangItem = {
+  ID: typeof ids[number];
+  Unknown: string;
+  Index: string;
+  Offset: string;
+  Text: string;
 };
 
-await Deno.writeTextFile(
-  "./gamedata/lang/en.lang.csv",
-  stringify(en.filter((x) => Object.hasOwn(maps, x.ID)), { columns }),
-);
+const columns = ["ID", "Unknown", "Index", "Offset", "Text"];
 
-await Deno.writeTextFile(
-  "./gamedata/lang/vstab.lang.csv",
-  stringify(vstab.filter((x) => Object.hasOwn(maps, x.ID)), { columns }),
-);
+// 只保留：区域、地点、技能
+const ids = ["4330293", "10860933", "17915077"] as const;
 
-await Deno.writeTextFile(
-  "./gamedata/lang/zh.lang.csv",
-  stringify(zh.filter((x) => Object.hasOwn(maps, x.ID)), { columns }),
-);
+const en = await parseLang("./gamedata/lang/en.lang.csv");
+const zh = await parseLang("./gamedata/lang/zh.lang.csv");
+const vstab = await parseLang("./gamedata/lang/vstab.lang.csv");
+
+clearCSV("en", en);
+clearCSV("zh", zh);
+clearCSV("vstab", vstab);
 
 // 判断官中文件是否完整
 if (en.length !== zh.length) {
@@ -33,11 +27,18 @@ if (en.length !== zh.length) {
   Deno.exit(1);
 }
 
-const en2zh = new Map<string, string>();
-for (let i = 0; i < en.length; i++) {
-  en2zh.set(en[i].Text, zh[i].Text);
-}
+// 构建官方英文到中文的映射
+const en2zh: Record<typeof ids[number], Map<string, string>> = {
+  4330293: new Map(),
+  10860933: new Map(),
+  17915077: new Map(),
+};
+en.forEach(({ ID, Text }, i) => {
+  en2zh[ID].set(Text, zh[i].Text);
+});
 
+// 构建微攻略英文到中文的映射
+// 格式 `"中文<英文>"`，例如 `"迪沙安<Deshaan>"`
 const en2vstab = new Map<string, string>();
 for (const x of vstab) {
   const m = x.Text.match(/(.*)<(.*)>/);
@@ -56,11 +57,9 @@ output += `| 英文 | 官中 | 微攻略 \n`;
 output += `| --- | --- | --- \n`;
 
 // 区域
-for (const x of en) {
-  if (x.ID === "4330293") {
-    output += `| ${x.Text} | ${en2zh.get(x.Text)} | ${en2vstab.get(x.Text) ?? "-"} \n`;
-  }
-}
+en2zh["4330293"].forEach((zh, en) => {
+  output += `| ${en} | ${zh} | ${en2vstab.get(en) ?? "-"} \n`;
+});
 
 output += `\n`;
 
@@ -69,11 +68,9 @@ output += `## 地点\n\n`;
 output += `| 英文 | 官中 | 微攻略 \n`;
 output += `| --- | --- | --- \n`;
 
-for (const x of en) {
-  if (x.ID === "10860933") {
-    output += `| ${x.Text} | ${en2zh.get(x.Text)} | ${en2vstab.get(x.Text) ?? "-"} \n`;
-  }
-}
+en2zh["10860933"].forEach((zh, en) => {
+  output += `| ${en} | ${zh} | ${en2vstab.get(en) ?? "-"} \n`;
+});
 
 output += `\n`;
 
@@ -82,11 +79,9 @@ output += `## 技能\n\n`;
 output += `| 英文 | 官中 | 微攻略 \n`;
 output += `| --- | --- | --- \n`;
 
-for (const x of en) {
-  if (x.ID === "17915077") {
-    output += `| ${x.Text} | ${en2zh.get(x.Text)} | ${en2vstab.get(x.Text) ?? "-"} \n`;
-  }
-}
+en2zh["17915077"].forEach((zh, en) => {
+  output += `| ${en} | ${zh} | ${en2vstab.get(en) ?? "-"} \n`;
+});
 
 output += `\n`;
 
@@ -94,17 +89,15 @@ await Deno.writeTextFile("./README.md", output);
 
 /**** utils ****/
 
-type LangItem = {
-  ID: string;
-  Unknown: string;
-  Index: string;
-  Offset: string;
-  Text: string;
-};
-
 async function parseLang(path: string) {
   return parse(await Deno.readTextFile(path), {
     skipFirstRow: true,
     columns,
   }) as LangItem[];
+}
+
+async function clearCSV(lang: string, items: LangItem[]) {
+  const result = items.filter((item) => ids.includes(item.ID));
+  const csv = stringify(result, { columns });
+  await Deno.writeTextFile(`./gamedata/lang/${lang}.lang.csv`, csv);
 }

@@ -254,9 +254,6 @@
 | Fell's Run Wayshrine | 兽皮疾走路点神龛 | 费尔之道指路祭坛 
 | Hoarfrost Downs Wayshrine | 啸霜丘原路点神龛 | 白霜山丘指路祭坛 
 | Shornhelm Wayshrine | 断盔城路点神龛 | 断盔城指路祭坛 
-| The Atronach | 侍灵 | 侍灵 
-| The Shadow | 暗影 | 暗影 
-| The Serpent | 巨蛇 | 毒蛇 
 | Portdun Watch | 波尔敦戍所 | 波顿哨塔 
 | Koeglin Mine | 克格林矿洞 | 柯因德琳矿洞 
 | Pariah Catacombs | 帕里亚墓穴 | 流放者墓窟 
@@ -299,8 +296,6 @@
 | Sathram Plantation Wayshrine | 萨斯拉姆种植园路点神龛 | 萨斯拉姆大农场指路祭坛 
 | Kragenmoor Wayshrine | 凯根摩尔路点神龛 | 凯根摩尔指路祭坛 
 | Ashen Road Wayshrine | 灰烬之路路点神龛 | 灰烬之路指路祭坛 
-| The Lady | 淑女 | 女神 
-| The Lover | 恋人 | 恋人 
 | Torog's Spite | 托罗格的怨恨 | 托罗格矿洞 
 | Troll's Toothpick | 巨魔的牙签 | 巨魔的牙签 
 | Viridian Watch | 深翠戍所 | 铭绿哨塔 
@@ -387,9 +382,6 @@
 | Valeguard Wayshrine | 山谷驻防点路点神龛 | 溪谷要塞指路祭坛 
 | Cradlecrush | 粉碎摇篮 | 破碎源地 
 | Weeping Giant Wayshrine | 哭泣巨人路点神龛 | 含泪巨人指路祭坛 
-| The Thief | 盗贼 | 盗贼 
-| The Ritual | 仪式 | 仪式 
-| The Warrior | 战神 | 战士 
 | Mzulft | 祖伏特 | 马祖尔夫特 
 | Valeguard | 山谷驻防点 | 溪谷要塞 
 | Bloodtoil Valley | 血役山谷 | 血圈谷 
@@ -486,7 +478,6 @@
 | Wansalen | 万萨伦 | 宛莎纶 
 | Mehrunes' Spite | 梅鲁涅斯之憎 | 梅努涅斯巢穴 
 | Bewan | 贝望 | 碧皖 
-| The Lady | 淑女 | 女神 
 | Firsthold | 第一要塞 | 首堡 
 | Phaer | 法尔镇 | 费尔 
 | Black Vine Ruins | 黑藤废墟 | 黑藤废墟 
@@ -494,13 +485,11 @@
 | Shael Ruins | 绍尔废墟 | 沙尔废墟 
 | Shattered Grove | 碎林 | 枝凌果园 
 | North Beacon | 北信标灯塔 | 北岸灯塔 
-| The Steed | 天马 | 战马 
 | Vulkhel Guard | 弗克赫尔卫城 | 弗柯尔之盾 
 | Lake Mist Ruins | 湖雾废墟 | 迷雾湖废墟 
 | Torinaan | 托里南 | 托林安 
 | Hightide Hollow | 满潮洞穴 | 潮汐洞穴 
 | Sheogorath's Tongue | 谢尔格拉之舌 | 谢尔格拉之舌 
-| The Apprentice | 学徒 | 学徒 
 | Riften | 裂谷城 | 裂谷城 
 | Fullhelm Fort | 富海姆堡 | 全盔要塞 
 | West Narsis Wayshrine | 西纳西斯路点神龛 | 西纳西斯指路祭坛 
@@ -531,7 +520,6 @@
 | Waterside Mine | 水边矿场 | 水边矿井 
 | Belarata | 贝拉拉塔 | 贝拉瑞塔 
 | Greenwater Cove | 碧波湾 | 绿水湾 
-| The Lover | 恋人 | 恋人 
 | Phaer Wayshrine | 法尔镇路点神龛 | 费尔指路祭坛 
 | Tanzelwil Wayshrine | 坦泽维尔路点神龛 | 谭泽维尔指路祭坛 
 | Firsthold Wayshrine | 第一要塞路点神龛 | 首堡指路祭坛 
@@ -607,9 +595,6 @@
 | Stony Basin Dolmen | 多石盆地石碑 | 山岩盆地暗锚 
 | Smokefrost Peaks Dolmen | 霜烟岭石碑 | 烟霜山峰暗锚 
 | Grimfield | 格里姆菲尔德 | 冷酷之地 
-| The Tower | 高塔 | 高塔 
-| The Mage | 法尊 | 法师 
-| The Lord | 君主座 | 君王 
 | Bthzark | 布扎克 | 巴德扎克 
 | Alcaire Dolmen | 阿尔凯瑞暗锚 | 阿尔卡亚暗锚 
 | Gavaudon Dolmen | 加瓦乌登暗锚 | 伽瓦尔敦暗锚 
@@ -692,9 +677,6 @@
 | Myrkwasa Dolmen | 米科瓦萨暗锚 | 米瑞科瓦萨暗锚 
 | Hollow Waste Dolmen | 空洞荒原暗锚 | 空无荒地暗锚 
 | Tigonus Dolmen | 提格努斯暗锚 | 提戈努斯暗锚 
-| The Warrior | 战神 | 战士 
-| The Ritual | 仪式 | 仪式 
-| The Thief | 盗贼 | 盗贼 
 | Court of Contempt | 蔑视法庭 | 蔑视之庭 
 | The Chasm | 鸿沟 | 深渊 
 | Hazak's Hollow | 哈扎克之谷 | 哈扎克的洞穴 
@@ -728,8 +710,6 @@
 | Northern Woods Dolmen | 北方森林暗锚 | 北域之森暗锚 
 | Jodewood Dolmen | 乔德之森暗锚 | 乔德森林暗锚 
 | Dawnmead Dolmen | 黎明草地暗锚 | 曙光草地暗锚 
-| The Steed | 天马 | 战马 
-| The Apprentice | 学徒 | 学徒 
 | The Reaver Citadel | 收割者堡垒 | 掠夺者要塞 
 | The Hollow City | 空洞之城 | 虚幻之城 
 | Greenheart Wayshrine | 绿心镇路点神龛 | 绿荫之心指路祭坛 
@@ -741,9 +721,6 @@
 | Woodhearth Wayshrine | 木炉城路点神龛 | 森炉城指路祭坛 
 | Moonhenge Wayshrine | 月亮石圈阵路点神龛 | 月阵指路祭坛 
 | Serpent's Grotto Wayshrine | 毒蛇洞窟路点神龛 | 毒蛇洞窟指路祭坛 
-| The Atronach | 侍灵 | 侍灵 
-| The Serpent | 巨蛇 | 毒蛇 
-| The Shadow | 暗影 | 暗影 
 | Green's Marrow Dolmen | 绿之髓暗锚 | 绿之髓暗锚 
 | Drowned Coast Dolmen | 沉没海岸暗锚 | 溺水海岸暗锚 
 | Wilderking Court Dolmen | 荒野之王王庭暗锚 | 野王之域暗锚 
@@ -768,9 +745,6 @@
 | Moonmont Wayshrine | 月山路点神龛 | 双月指路祭坛 
 | Rawl'kha Wayshrine | 罗尔卡路点神龛 | 罗尔'伽指路祭坛 
 | S'ren-ja Wayshrine | 塞伦加路点神龛 | 斯兰-加指路祭坛 
-| The Tower | 高塔 | 高塔 
-| The Mage | 法尊 | 法师 
-| The Lord | 君主座 | 君王 
 | Elden Root Wayshrine | 艾尔登之根路点神龛 | 长者之树指路祭坛 
 | Gil-Var-Delle Wayshrine | 吉尔-瓦尔-戴拉路点神龛 | 吉尔-瓦尔-代勒指路祭坛 
 | Elden Root Temple Wayshrine | 艾尔登之根神殿路点神龛 | 长者之树神庙指路祭坛 
@@ -818,18 +792,6 @@
 | Varanis Dolmen | 瓦拉尼斯暗锚 | 瓦兰尼斯暗锚 
 | Eastern Evermore Wayshrine | 永恒城东部路点神龛 | 永恒城东侧指路祭坛 
 | Falinesti Winter Site | 法林奈斯提冬日站点 | 佛莲纳提冬之遗址 
-| The Apprentice | 学徒 | 学徒 
-| The Atronach | 侍灵 | 侍灵 
-| The Lady | 淑女 | 女神 
-| The Warrior | 战神 | 战士 
-| The Mage | 法尊 | 法师 
-| The Thief | 盗贼 | 盗贼 
-| The Lover | 恋人 | 恋人 
-| The Serpent | 巨蛇 | 毒蛇 
-| The Ritual | 仪式 | 仪式 
-| The Tower | 高塔 | 高塔 
-| The Steed | 天马 | 战马 
-| The Shadow | 暗影 | 暗影 
 | Fort Sphinxmoth | 斯芬克斯莫斯堡垒 | 斯芬克斯摩斯堡 
 | Karthdar | 卡思达 | 卡斯达尔 
 | Redfur Trading Post | 赤皮交易站 | 红皮贸易站 
@@ -852,8 +814,6 @@
 | Wormroot Depths | 虫根深渊 | 虫根深处 
 | Mobar Mine | 莫巴尔矿洞 | 莫巴矿洞 
 | Ice-Heart Home | 冰心的家 | 冰心的屋邸 
-| The Harborage | 避难所 | 避难所 
-| The Harborage | 避难所 | 避难所 
 | The Harborage | 避难所 | 避难所 
 | Halcyon Lake Wayshrine | 翡翠湖路点神龛 | 宁静湖指路祭坛 
 | Gray Mire Wayshrine | 灰潭路点神龛 | 灰暗泥潭指路祭坛 
@@ -981,7 +941,6 @@
 | Siren's Cove | 海妖湾 | 塞壬之穴 
 | Lost Caravan | 商队失踪点 | 失踪的商队 
 | Lesser Circle | 小圆环 | 小圆环 
-| Giant Camp | 巨人营地 | 巨人营地 
 | Forsaken Hearts Cave | 遗弃之心洞穴 | 遗弃之心洞穴 
 | Hag Camp | 鬼婆营地 | 鸦婆营地 
 | King's Rest | 王的栖所 | 国王之息 
@@ -1109,7 +1068,6 @@
 | Trader's Rest | 交易者歇脚处 | 商人之息 
 | Saltwalker Militia Camp | 盐行者民兵营地 | 盐行者民兵营 
 | Aswala's Remembrance | 阿斯瓦拉的纪念 | 阿斯瓦拉纪念碑 
-| Ragnthar | 拉甘塔尔 | 拉格萨 
 | Rkulftzel | 厄卡奥泽欧 | 库尔夫泽尔 
 | Easterly Aerie | 东方鸟巢 | 东部高所 
 | Alezer Kotu | 阿莱泽·阔图 | 阿里泽·克图 
@@ -1153,7 +1111,6 @@
 | Weeping Wamasu Falls | 哭泣巨蜥瀑布 | 雷霆蜥蜴之泣瀑布 
 | Darkwater Crossing | 黑水岔口 | 暗水路口 
 | Giant's Heart | 巨人之心 | 巨人之心 
-| Ragnthar | 拉甘塔尔 | 拉格萨 
 | Cragwallow Cave | 岩潭洞穴 | 峭壁之嬉洞穴 
 | Hammerhome | 战锤之乡 | 大锤之家 
 | Bitterblade's Camp | 寒刃营地 | 苦刃营地 
@@ -1272,16 +1229,10 @@
 | Ladder to Temple District | 通往神殿区的梯子 | 神庙区梯子 
 | Ladder to Arboretum | 通往植物园的梯子 | 植物园梯子 
 | Sewer Entrance | 下水道入口 | 下水道入口 
-| Sewer Entrance | 下水道入口 | 下水道入口 
-| Sewer Entrance | 下水道入口 | 下水道入口 
-| Sewer Entrance | 下水道入口 | 下水道入口 
-| Nikolvara's Kennel | 妮可瓦拉的狗窝 | 尼科瓦拉的狗窝 
 | Friendship Gate | 友谊之门 | 友谊关隘 
 | Dungeon: Imperial City Prison | 地牢：帝都监狱 | 副本：帝都监狱 
 | Ladder to Nobles District | 通往贵族区的梯子 | 贵族区梯子 
 | Ladder to Elven Gardens | 通往精灵花园的梯子 | 精灵花园区梯子 
-| Sewer Entrance | 下水道入口 | 下水道入口 
-| Sewer Entrance | 下水道入口 | 下水道入口 
 | Ebral the Betrayer | 背叛者厄布拉尔 | 背叛者艾布拉尔 
 | Emperor Leovic | 利奥维克皇帝 | 里奥维克皇帝 
 | Gati the Storm Sister | 风暴修女嘉提 | 风暴之女盖提 
@@ -1319,10 +1270,6 @@
 | Inquisitor's Retreat | 审判者的藏身处 | 审判官逸处 
 | Daedric Shackle Trophy Vault | 魔族枷锁战利品库 | 魔族束缚收藏室 
 | Daedric Embers Trophy Vault | 魔族余烬战利品宝库 | 魔族余烬藏品宝库 
-| Dungeon: Imperial City Prison | 地牢：帝都监狱 | 副本：帝都监狱 
-| Dungeon: White-Gold Tower | 地牢：白金塔 | 副本：白金塔 
-| Dungeon: White-Gold Tower | 地牢：白金塔 | 副本：白金塔 
-| Dungeon: White-Gold Tower | 地牢：白金塔 | 副本：白金塔 
 | Legionary Trophy Vault | 军团士兵战利品库 | 帝国军印宝库 
 | Planar Armor Trophy Vault | 位面盔甲战利品库 | 平甲碎片宝库 
 | Bone Shard Trophy Vault | 白骨碎片战利品库 | 骸骨碎片宝库 
@@ -1341,12 +1288,9 @@
 | No Shira Citadel | 诺·什拉堡垒 | 诺·施拉要塞 
 | No Shira Workshop | 诺·什拉工坊 | 诺·施拉工坊 
 | Forebear's Junction | 先祖派枢纽 | 祖先派的交汇点 
-| Abah's Landing Wayshrine | 阿巴登陆点路点神龛 | 阿巴码头指路祭坛 
 | Zeht's Displeasure Wayshrine | 闷闷不乐的泽特路点神龛 | 兹特之哀指路祭坛 
 | No Shira Citadel Wayshrine | 诺·什拉堡垒路点神龛 | 诺·施拉要塞指路祭坛 
 | Placations of Zeht | 泽特之抚 | 兹特之慰 
-| Merchant's Gate | 商人之门 | 商业关隘 
-| Friendship Gate | 友谊之门 | 友谊关隘 
 | Anvil Wayshrine | 铁砧城路点神龛 | 安维尔指路祭坛 
 | Kvatch Wayshrine | 科瓦奇路点神龛 | 科瓦奇指路祭坛 
 | Strid River Wayshrine | 斯特里德河流路点神龛 | 窄谷河口指路祭坛 
@@ -1388,7 +1332,6 @@
 | Balmora | 巴莫拉 | 巴尔莫拉 
 | Nilthog's Hollow | 尼尔索格的幽谷 | 尼尔萨格的巢穴 
 | Sulipund Grange | 苏里彭德农场 | 苏里庞德养殖场 
-| Shipwreck Cove | 沉船湾 | 沉船海窟 
 | Missir-Dadalit Egg Mine | 米希尔-达达利特蛋矿 | 米锡尔-达达利特蛋矿坑 
 | Dubdil Alar Tower | 杜比迪尔·阿拉尔塔 | 达布迪尔·阿拉尔之塔 
 | Salothan's Council | 塞洛珊的议会 | 萨罗珊议会 
@@ -1427,7 +1370,6 @@
 | Dungeon: The Banished Cells II | 地下城：放逐地牢 II | 副本：放逐密室 II 
 | Dungeon: Elden Hollow II | 地牢：艾尔登洞穴 II | 副本：长者洞穴 II 
 | Dungeon: Wayrest Sewers II | 地牢：途歇城下水道 II | 副本：途歇城下水道 II 
-| Dungeon: Darkshade Caverns I | 地牢：暗影洞穴 I | 副本：暗影洞窟 I 
 | Dungeon: Fungal Grotto II | 地牢：真菌岩洞 II | 副本：真菌石窟 II 
 | Dungeon: Crypt of Hearts II | 地牢：心灵地穴 II | 副本：心之墓穴 II 
 | Dungeon: Spindleclutch II | 地牢：蛛丝之握洞穴 II | 副本：纺锤迷宫 II 
@@ -1526,7 +1468,6 @@
 | Russafeld Heights Wayshrine | 绯红圣地顶部路点神龛 | 鲁萨菲尔德高地指路祭坛 
 | Cey-Tarn Keep Wayshrine | 塞伊·塔恩要塞路点神龛 | 塞伊山泉堡垒指路祭坛 
 | Ebon Stadmont Wayshrine | 黑檀斯塔德蒙特路点神龛 | 黑檀迷阵指路祭坛 
-| King's Haven Pass | 国王港隘口 | 国王之港通道 
 | King's Haven Pass | 国王港隘口 | 国王之港通道 
 | Eton Nir Grotto | 艾顿尼尔洞穴 | 伊东尼尔洞窟 
 | Archon's Grove | 执政官树林 | 神使花园 
@@ -1809,7 +1750,6 @@
 | Darkrise Overlook | 黑升瞭望点 | 黑升远眺点 
 | Gloomstalker Village | 幽猎村 | 幽暗追迹者小镇 
 | Mor Khazgur Giant Camp | 莫·卡兹古尔巨人营地 | 莫尔·卡兹古尔巨人营地 
-| Arkthzand Great Lift | 阿克赞德大升降机 | 阿克斯赞升降机 
 | Dungeon: Black Drake Villa | 地牢：黑德雷克庄园 | 副本：黑龙山庄 
 | Dungeon: The Cauldron | 地牢：大釜 | 副本：仪式巨釜 
 | Nchuand-Zel | 楚安德-泽尔废墟 | 恩川德-泽尔 
@@ -1817,8 +1757,6 @@
 | Bthar-Zel | 巴塔·扎尔 | 布萨尔-泽尔 
 | Sentinel Point | 哨兵据点 | 哨点 
 | Nighthollow Keep | 夜谷要塞 | 夜之洞堡垒 
-| Gloomreach | 格洛瑞驰 | 微光之岸 
-| Nalzthdbar Great Lift | 纳斯萨巴大升降机 | 纳兹斯德巴升降机 
 | Druadach Mountains Wayshrine | 逐达奇山峦路点神龛 | 德拉达奇山指路祭坛 
 | Arkthzand Wayshrine | 阿克赞德路点神龛 | 阿克斯赞指路祭坛 
 | Nighthollow Wayshrine | 夜谷路点神龛 | 夜之洞指路祭坛 
@@ -1901,12 +1839,7 @@
 | False Martyrs' Folly | 虚假的殉道者愚行 | 虚伪殉徒之愚 
 | Wretched Spire | 恶毒尖刺 | 悲惨尖塔 
 | Portal to Fargrave | 通往法格雷夫的传送门 | 遥墓城传送门 
-| Portal to Fargrave | 通往法格雷夫的传送门 | 遥墓城传送门 
 | The Deadlands | 死地 | 死地 
-| Ayleid Well | 野精灵之井 | 亚历德魔法井 
-| Ayleid Well | 野精灵之井 | 亚历德魔法井 
-| Ayleid Well | 野精灵之井 | 亚历德魔法井 
-| Ayleid Well | 野精灵之井 | 亚历德魔法井 
 | Ayleid Well | 野精灵之井 | 亚历德魔法井 
 | Doomvault Vulpinaz Wayshrine | 诡计末日密库路点神龛 | 毁灭密室废墟指路祭坛 
 | Blackwood Crossroads Wayshrine | 黑木交叉路口路点神龛 | 黑森林十字路口指路祭坛 
