@@ -1,7 +1,4 @@
-import {
-  parse,
-  stringify,
-} from "https://deno.land/std@0.161.0/encoding/csv.ts";
+import { parse, stringify } from "https://deno.land/std@0.161.0/encoding/csv.ts";
 
 const columns = ["ID", "Unknown", "Index", "Offset", "Text"];
 
@@ -61,7 +58,7 @@ output += `| --- | --- | --- \n`;
 // 区域
 for (const x of en) {
   if (x.ID === "4330293") {
-    output += `| ${x.Text} | ${en2zh.get(x.Text)} | ${en2vstab.get(x.Text)} \n`;
+    output += `| ${x.Text} | ${en2zh.get(x.Text)} | ${en2vstab.get(x.Text) ?? "-"} \n`;
   }
 }
 
@@ -74,7 +71,7 @@ output += `| --- | --- | --- \n`;
 
 for (const x of en) {
   if (x.ID === "10860933") {
-    output += `| ${x.Text} | ${en2zh.get(x.Text)} | ${en2vstab.get(x.Text)} \n`;
+    output += `| ${x.Text} | ${en2zh.get(x.Text)} | ${en2vstab.get(x.Text) ?? "-"} \n`;
   }
 }
 
@@ -87,7 +84,7 @@ output += `| --- | --- | --- \n`;
 
 for (const x of en) {
   if (x.ID === "17915077") {
-    output += `| ${x.Text} | ${en2zh.get(x.Text)} | ${en2vstab.get(x.Text)} \n`;
+    output += `| ${x.Text} | ${en2zh.get(x.Text)} | ${en2vstab.get(x.Text) ?? "-"} \n`;
   }
 }
 

@@ -1,0 +1,14 @@
+{
+  "tasks": {
+    "gen": "deno run --allow-read --allow-write ./gen.ts",
+  },
+  "fmt": {
+    "options": {
+      "lineWidth": 120,
+      "indentWidth": 2
+    },
+    "files": {
+      "exclude": ["gamedata/**/*", "README.md"]
+    }
+  }
+}
