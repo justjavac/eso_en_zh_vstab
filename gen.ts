@@ -50,40 +50,26 @@ for (const x of vstab) {
   en2vstab.set(en, zh);
 }
 
-let output = "# 上古卷轴 OL 中英文对照表（英文 vs 官中 vs 微攻略）\n\n";
+const output = `# 上古卷轴 OL 中英文对照表（英文 vs 官中 vs 微攻略）
 
-output += `## 区域\n\n`;
-output += `| 英文 | 官中 | 微攻略 \n`;
-output += `| --- | --- | --- \n`;
+## 区域
 
-// 区域
-en2zh["4330293"].forEach((zh, en) => {
-  output += `| ${en} | ${zh} | ${en2vstab.get(en) ?? "-"} \n`;
-});
+| 英文 | 官中 | 微攻略
+| --- | --- | ---
+${[...en2zh["4330293"]].map(([en, zh]) => `| ${en} | ${zh} | ${en2vstab.get(en) ?? "-"}`).join("\n")}
 
-output += `\n`;
+## 地点
 
-// 地点
-output += `## 地点\n\n`;
-output += `| 英文 | 官中 | 微攻略 \n`;
-output += `| --- | --- | --- \n`;
+| 英文 | 官中 | 微攻略
+| --- | --- | ---
+${[...en2zh["10860933"]].map(([en, zh]) => `| ${en} | ${zh} | ${en2vstab.get(en) ?? "-"}`).join("\n")}
 
-en2zh["10860933"].forEach((zh, en) => {
-  output += `| ${en} | ${zh} | ${en2vstab.get(en) ?? "-"} \n`;
-});
+## 技能
 
-output += `\n`;
-
-// 技能
-output += `## 技能\n\n`;
-output += `| 英文 | 官中 | 微攻略 \n`;
-output += `| --- | --- | --- \n`;
-
-en2zh["17915077"].forEach((zh, en) => {
-  output += `| ${en} | ${zh} | ${en2vstab.get(en) ?? "-"} \n`;
-});
-
-output += `\n`;
+| 英文 | 官中 | 微攻略
+| --- | --- | ---
+${[...en2zh["17915077"]].map(([en, zh]) => `| ${en} | ${zh} | ${en2vstab.get(en) ?? "-"}`).join("\n")}
+`;
 
 await Deno.writeTextFile("./README.md", output);
 
