@@ -1,6 +1,6 @@
 {
   "tasks": {
-    "gen": "deno run --allow-read --allow-write ./gen.ts",
+    "gen": "deno run --allow-read --allow-write ./gen.ts"
   },
   "fmt": {
     "options": {
