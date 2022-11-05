@@ -42,7 +42,7 @@
 | High Isle | 高岛 | 高岛
 | Galen | 伽林 | -
 
-## 副本
+## 地牢
 
 | 英文 | 官中 | 微攻略
 | --- | --- | ---
@@ -91,6 +91,22 @@
 | Dungeon: Shipwright's Regret | 地下城：船工之憾地牢 | 副本：船匠之憾
 | Dungeon: Earthen Root Enclave | 地牢：地根飞地 | 副本：地根营地
 | Dungeon: Graven Deep | 地牢：铭深岛 | 副本：坟墓之渊
+
+## 试炼
+
+| 英文 | 官中 | 微攻略
+| --- | --- | ---
+| Trial: Hel Ra Citadel | 试炼：赫尔·拉要塞 | 试炼：荷尔·拉要塞
+| Trial: Aetherian Archive | 试炼：艾瑟瑞恩档案塔 | 试炼：艾瑟瑞斯档案塔
+| Trial: Sanctum Ophidia | 试炼：乌鞘蛇圣所 | 试炼：乌鞘蛇圣所
+| Trial: Maw of Lorkhaj | 试炼：洛克汗的巨口 | 试炼：洛哈吉之渊
+| Trial: Halls of Fabrication | 试炼：制造大厅 | 试炼：锻造大厅
+| Trial: Asylum Sanctorium | 试炼：庇护圣所 | 试炼：庇护圣所
+| Trial: Cloudrest | 试炼：云栖城 | 试炼：云息城
+| Trial: Sunspire | 试炼：太阳尖顶 | 试炼：阳尖城
+| Trial: Kyne's Aegis | 试炼：凯恩之盾 | 试炼：凯娜的庇护
+| Trial: Rockgrove | 试炼：石林 | 试炼：石林
+| Trial: Dreadsail Reef | 试炼：恐帆礁石 | 试炼：惧帆暗礁
 
 ## 地点
 
@@ -1182,8 +1198,6 @@
 | Spellscar | 法术伤痕 | 咒法之痕
 | Earth Forge Wayshrine | 大地熔炉路点神龛 | 大地熔炉指路祭坛
 | Abah's Landing Wayshrine | 阿巴登陆点路点神龛 | 阿巴码头指路祭坛
-| Trial: Hel Ra Citadel | 试炼：赫尔·拉要塞 | 试炼：荷尔·拉要塞
-| Trial: Aetherian Archive | 试炼：艾瑟瑞恩档案塔 | 试炼：艾瑟瑞斯档案塔
 | Elinhir Wayshrine | 爱林希尔路点神龛 | 艾琳赫尔指路祭坛
 | Spellscar Wayshrine | 法术伤痕路点神龛 | 咒法之痕指路祭坛
 | Mountain Overlook Wayshrine | 山顶瞭望点路点神龛 | 山峰高台指路祭坛
@@ -1233,7 +1247,6 @@
 | Rkindaleft | 瑞因达莱夫特 | 林达莱夫特
 | Frozen Fleet | 冰冻舰队 | 冰封舰队
 | Orsinium | 奥辛纽姆 | 奥辛纽姆
-| Trial: Sanctum Ophidia | 试炼：乌鞘蛇圣所 | 试炼：乌鞘蛇圣所
 | Siege Road Wayshrine | 围攻之路路点神龛 | 围攻之路指路祭坛
 | Frostbreak Ridge Wayshrine | 霜断山脊路点神龛 | 霜破山脉指路祭坛
 | Trader's Road Wayshrine | 商人之路路点神龛 | 贸易者之路指路祭坛
@@ -1333,7 +1346,6 @@
 | Garlas Agea | 加尔拉斯·阿格亚 | 嘉拉斯·阿吉亚
 | Knightsgrave | 骑士陵墓 | 骑士之墓
 | Tribune's Folly | 行政官的庄园 | 护民官的庄园
-| Trial: Maw of Lorkhaj | 试炼：洛克汗的巨口 | 试炼：洛哈吉之渊
 | At-Himah Family Estate | 埃特-希玛庄园 | 艾特-锡玛的庄园
 | Beldaburo | 贝尔达布罗 | 贝尔达布罗
 | Enclave of the Hourglass | 沙漏飞地 | 沙漏居留地
@@ -1357,7 +1369,6 @@
 | West Gash Wayshrine | 西部峡谷路点神龛 | 西境之痕指路祭坛
 | Tel Aruhn | 泰尔阿鲁因 | 泰尔·阿汝因
 | Sadrith Mora | 沙迪斯莫拉 | 撒迪尔斯·莫拉
-| Trial: Halls of Fabrication | 试炼：制造大厅 | 试炼：锻造大厅
 | Urshilaku Camp Wayshrine | 厄施拉库营地路点神龛 | 厄施拉库营地指路祭坛
 | Suran | 苏兰 | 苏兰
 | Balmora | 巴莫拉 | 巴尔莫拉
@@ -1521,7 +1532,6 @@
 | The Refurbishing Yard | 翻新的庭院 | 翻新之院
 | Pavilion of Artifice | 工艺馆 | 造物之亭
 | Exorcised Coven Cottage | 净化的女巫集会小窝 | 四周平静的巫女小屋
-| Trial: Asylum Sanctorium | 试炼：庇护圣所 | 试炼：庇护圣所
 | Linchal Grand Manor | 林查尔豪华庄园 | 琳查尔宏伟庄园
 | Hakkvild's High Hall | 哈克维尔德的云堡 | 哈克维尔德的高堂
 | Coldharbour Surreal Estate | 冷港秘境 | 冷港的超现实庄园
@@ -1539,7 +1549,6 @@
 | Princely Dawnlight Palace | 高贵曙光殿 | 王子的曙光之殿
 | The Erstwhile Sanctuary | 昔日圣所 | 昔日圣所
 | Dusk Keep | 黄昏要塞 | 黄昏堡垒
-| Trial: Cloudrest | 试炼：云栖城 | 试炼：云息城
 | Sunhold Wayshrine | 太阳要塞路点神龛 | 阳曦城指路祭坛
 | Moon Hunter Keep | 月狩要塞 | 月狩要塞
 | March of Sacrifices | 献祭之境 | 祭品游行
@@ -1618,7 +1627,6 @@
 | Enchanted Snow Globe Home | 附魔雪球屋 | 魔法雪辉房屋
 | Valenwood Gate | 瓦伦伍德之门 | 维兰森林大门
 | Lakemire Xanmeer Manor | 泥潭湖石巢神庙庄园 | 湖沼珊米尔宅邸
-| Trial: Sunspire | 试炼：太阳尖顶 | 试炼：阳尖城
 | Elinhir Private Arena | 爱林希尔私人竞技场 | 艾琳赫尔私人竞技场
 | Frostvault Chasm | 冰霜宝库裂隙 | 霜冻密室裂缝
 | Sugar Bowl Suite | 糖碗套房 | 糖碗套房
@@ -1696,7 +1704,6 @@
 | Black Morass Ritual Site | 黑沼仪式地 | 黑林沼仪式地点
 | Giant's Coast Ritual Site | 巨人海岸仪式地 | 巨人海岸仪式地点
 | Chilblain Peak Ritual Site | 冻疮峰仪式地 | 冻疮峰仪式地点
-| Trial: Kyne's Aegis | 试炼：凯恩之盾 | 试炼：凯娜的庇护
 | Hailstone Valley Ritual Site | 冰雹谷仪式地 | 冰雹谷仪式地点
 | Northern Watch Ritual Site | 北部戍所仪式地 | 北望仪式地点
 | Coastal Giant Camp | 沿海巨人营地 | 海岸巨人营地
@@ -1811,7 +1818,6 @@
 | Glenbridge | 葛林桥 | 谷桥
 | Vunalk | 乌纳克 | 瓦纳尔克
 | Xeemhok's Lagoon | 谢姆霍克的泻湖 | 西姆霍克的泻湖
-| Trial: Rockgrove | 试炼：石林 | 试炼：石林
 | Ojel-Bak | 欧杰-巴克 | 欧杰-巴克
 | Stonewastes | 屑石村 | 废石
 | The Shattered Xanmeer | 破碎的石巢神庙 | 破碎的珊米尔
@@ -1893,7 +1899,6 @@
 | Steadfast Hammer and Saw | 忠坚的锤和锯 | 坚毅之锤与锯
 | Hidden Foundry | 隐藏的铸造厂 | 隐藏铸造所
 | All Flags Wayshrine | 全旗路点神龛 | 全旗指路祭坛
-| Trial: Dreadsail Reef | 试炼：恐帆礁石 | 试炼：惧帆暗礁
 | Sapphire Point Volcanic Vent | 萨菲瑞点火山口 | 蓝宝石之尖火山喷口
 | Navire Volcanic Vent | 纳维尔火山口 | 纳维尔火山喷口
 | Feywatch Isle Volcanic Vent | 费瓦奇岛火山口 | 玄望岛火山喷口

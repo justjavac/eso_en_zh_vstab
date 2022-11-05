@@ -69,11 +69,13 @@ ${
     .join("\n")
 }
 
+## 试炼
+
 | 英文 | 官中 | 微攻略
 | --- | --- | ---
 ${
   [...en2zh["10860933"]]
-    .filter(([en]) => en.startsWith("Dungeon:"))
+    .filter(([en]) => en.startsWith("Trial:"))
     .map(([en, zh]) => `| ${en} | ${zh} | ${en2vstab.get(en) ?? "-"}`)
     .join("\n")
 }
@@ -85,6 +87,7 @@ ${
 ${
   [...en2zh["10860933"]]
     .filter(([en]) => !en.startsWith("Dungeon:"))
+    .filter(([en]) => !en.startsWith("Trial:"))
     .map(([en, zh]) => `| ${en} | ${zh} | ${en2vstab.get(en) ?? "-"}`)
     .join("\n")
 }
