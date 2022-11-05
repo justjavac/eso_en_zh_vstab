@@ -91,6 +91,17 @@ ${
     .join("\n")
 }
 
+## 路点神龛
+
+| 英文 | 官中 | 微攻略
+| --- | --- | ---
+${
+  [...en2zh["10860933"]]
+    .filter(([en]) => en.endsWith("Wayshrine"))
+    .map(([en, zh]) => `| ${en} | ${zh} | ${en2vstab.get(en) ?? "-"}`)
+    .join("\n")
+}
+
 ## 地点
 
 | 英文 | 官中 | 微攻略
@@ -100,6 +111,7 @@ ${
     .filter(([en]) => !en.startsWith("Dungeon:"))
     .filter(([en]) => !en.startsWith("Trial:"))
     .filter(([en]) => !en.startsWith("Arena:"))
+    .filter(([en]) => !en.endsWith("Wayshrine"))
     .map(([en, zh]) => `| ${en} | ${zh} | ${en2vstab.get(en) ?? "-"}`)
     .join("\n")
 }

@@ -116,6 +116,358 @@
 | Arena: Blackrose Prison | 竞技场：黑玫瑰监狱 | 竞技场：黑玫瑰监狱
 | Arena: Vateshran Hollows | 竞技场：瓦特什兰洞穴 | 竞技场：维特斯兰洞穴
 
+## 路点神龛
+
+| 英文 | 官中 | 微攻略
+| --- | --- | ---
+| Stillrise Wayshrine | 静升镇路点神龛 | 冉升指路祭坛
+| Stormhold Wayshrine | 风暴之城路点神龛 | 风暴堡指路祭坛
+| Hatching Pools Wayshrine | 孵化池路点神龛 | 韵生池指路祭坛
+| Bogmother Wayshrine | 沼母路点神龛 | 沼泽之母指路祭坛
+| Alten Corimont Wayshrine | 科里蒙港路点神龛 | 亚尔藤·科里蒙特指路祭坛
+| Wyrd Tree Wayshrine | 命运之树路点神龛 | 命运圣树指路祭坛
+| Percolating Mire Wayshrine | 渗透沼泽路点神龛 | 渗透沼泽指路祭坛
+| Aldcroft Wayshrine | 奥尔德克罗夫特路点神龛 | 奥德考夫特指路祭坛
+| Hissmir Wayshrine | 希斯米尔路点神龛 | 希斯米尔指路祭坛
+| Deleyn's Mill Wayshrine | 德莱恩磨坊路点神龛 | 德里茵磨坊指路祭坛
+| Loriasel Wayshrine | 诺里亚斯利路点神龛 | 洛里亚瑟指路祭坛
+| Eagle's Brook Wayshrine | 鹰河路点神龛 | 鹰溪镇指路祭坛
+| Venomous Fens Wayshrine | 有毒沼泽路点神龛 | 怨恨沼泽指路祭坛
+| North Hag Fen Wayshrine | 鬼婆沼泽北区路点神龛 | 鸦婆沼泽北部指路祭坛
+| Lion Guard Redoubt Wayshrine | 雄狮卫堡垒路点神龛 | 雄狮护卫团前哨所指路祭坛
+| Crosswych Wayshrine | 克罗斯维奇路点神龛 | 十字女巫镇指路祭坛
+| Farwatch Wayshrine | 远望塔路点神龛 | 远眺指路祭坛
+| Baelborne Rock Wayshrine | 贝尔伯恩岩堡路点神龛 | 贝尔博之岩指路祭坛
+| Evermore Wayshrine | 永恒城路点神龛 | 永恒城指路祭坛
+| Daggerfall Wayshrine | 匕落路点神龛 | 匕落城指路祭坛
+| Burial Tombs Wayshrine | 墓冢路点神龛 | 埋葬之墓指路祭坛
+| Troll's Toothpick Wayshrine | 巨魔的牙签路点神龛 | 巨魔的牙签指路祭坛
+| Viridian Woods Wayshrine | 深翠之林路点神龛 | 铭绿森林指路祭坛
+| Bangkorai Pass Wayshrine | 班古莱山隘路点神龛 | 班科莱古道指路祭坛
+| Nilata Ruins Wayshrine | 尼拉塔遗迹路点神龛 | 内拉达废墟指路祭坛
+| Hallin's Stand Wayshrine | 哈林要塞路点神龛 | 哈林驻地指路祭坛
+| Old Tower Wayshrine | 古塔路点神龛 | 老塔指路祭坛
+| Onsi's Breath Wayshrine | 傲希之息路点神龛 | 翁诗之息指路祭坛
+| Sunken Road Wayshrine | 沉没之路路点神龛 | 沉没之路指路祭坛
+| Forsaken Hamlet Wayshrine | 遗弃之村路点神龛 | 遗弃村庄指路祭坛
+| Koeglin Village Wayshrine | 克格林村路点神龛 | 柯因德琳村指路祭坛
+| Alcaire Castle Wayshrine | 阿尔凯瑞城堡路点神龛 | 阿尔卡亚城堡指路祭坛
+| Firebrand Keep Wayshrine | 纵火者要塞路点神龛 | 火烙堡垒指路祭坛
+| Wind Keep Wayshrine | 狂风要塞路点神龛 | 风之堡指路祭坛
+| Dro-Dara Plantation Wayshrine | 多罗多拉种植园路点神龛 | 德罗-达拉种植园指路祭坛
+| Soulshriven Wayshrine | 丧魂傀儡路点神龛 | 灵魂忏悔者指路祭坛
+| Pariah Abbey Wayshrine | 帕里亚修道院路点神龛 | 流放者大修道院指路祭坛
+| Oldgate Wayshrine | 旧关口路点神龛 | 古老关隘指路祭坛
+| Crestshade Wayshrine | 峰影路点神龛 | 岭荫镇指路祭坛
+| Camp Tamrith Wayshrine | 塔姆里斯营地路点神龛 | 塔姆锐斯营地指路祭坛
+| Boralis Wayshrine | 波拉里斯路点神龛 | 博纳尼斯指路祭坛
+| Staging Grounds Wayshrine | 幕帷地路点神龛 | 集结地指路祭坛
+| Northpoint Wayshrine | 北据城路点神龛 | 北角镇指路祭坛
+| Fell's Run Wayshrine | 兽皮疾走路点神龛 | 费尔之道指路祭坛
+| Hoarfrost Downs Wayshrine | 啸霜丘原路点神龛 | 白霜山丘指路祭坛
+| Shornhelm Wayshrine | 断盔城路点神龛 | 断盔城指路祭坛
+| Morwha's Bounty Wayshrine | 莫瓦赏金营地路点神龛 | 莫尔瓦的恩惠指路祭坛
+| Sentinel Wayshrine | 哨兵城路点神龛 | 哨卫城指路祭坛
+| Bergama Wayshrine | 贝尔加玛路点神龛 | 帕加马指路祭坛
+| Leki's Blade Wayshrine | 勒奇之刃路点神龛 | 蕾姬之刃指路祭坛
+| Satakalaam Wayshrine | 萨塔卡拉姆路点神龛 | 萨塔卡拉姆指路祭坛
+| Davon's Watch Wayshrine | 达文卫城路点神龛 | 达文之望指路祭坛
+| Othrenis Wayshrine | 奥瑟尼斯路点神龛 | 奥瑟伦尼斯指路祭坛
+| Fort Arand Wayshrine | 阿兰德堡路点神龛 | 阿兰德要塞指路祭坛
+| Ebonheart Wayshrine | 黑檀心路点神龛 | 黑檀心城指路祭坛
+| Vivec's Antlers Wayshrine | 维威克的鹿角路点神龛 | 维威克的鹿角指路祭坛
+| Brothers of Strife Wayshrine | 阋墙兄弟路点神龛 | 阋墙兄弟指路祭坛
+| Hrogar's Hold Wayshrine | 罗格堡垒路点神龛 | 赫罗嘉要塞指路祭坛
+| Fort Virak Wayshrine | 维拉克堡垒路点神龛 | 弗莱克要塞指路祭坛
+| Iliath Temple Wayshrine | 伊利亚斯神殿路点神龛 | 埃里莱斯神庙指路祭坛
+| Sathram Plantation Wayshrine | 萨斯拉姆种植园路点神龛 | 萨斯拉姆大农场指路祭坛
+| Kragenmoor Wayshrine | 凯根摩尔路点神龛 | 凯根摩尔指路祭坛
+| Ashen Road Wayshrine | 灰烬之路路点神龛 | 灰烬之路指路祭坛
+| Bleakrock Wayshrine | 荒岩路点神龛 | 暗岩指路祭坛
+| Dhalmora Wayshrine | 达莫拉路点神龛 | 达莫拉指路祭坛
+| Dra'bul Wayshrine | 德拉布尔路点神龛 | 德拉'布尔指路祭坛
+| Ilayas Ruins Wayshrine | 伊拉亚斯废墟路点神龛 | 伊拉雅思废墟指路祭坛
+| Velyn Harbor Wayshrine | 维林港路点神龛 | 薇灵港指路祭坛
+| Vulkwasten Wayshrine | 沃克瓦森路点神龛 | 弗柯瓦斯藤指路祭坛
+| Abamath Wayshrine | 阿巴马斯路点神龛 | 阿巴马斯指路祭坛
+| Wilding Run Wayshrine | 荒林之地路点神龛 | 野路指路祭坛
+| Baandari Post Wayshrine | 班达理站路点神龛 | 班达瑞站指路祭坛
+| Bloodtoil Valley Wayshrine | 血役山谷路点神龛 | 血圈谷指路祭坛
+| Sanguine Barrows Wayshrine | 血腥古墓路点神龛 | 血腥古坟指路祭坛
+| Valeguard Wayshrine | 山谷驻防点路点神龛 | 溪谷要塞指路祭坛
+| Weeping Giant Wayshrine | 哭泣巨人路点神龛 | 含泪巨人指路祭坛
+| Windhelm Wayshrine | 风盔城路点神龛 | 风舵城指路祭坛
+| Fort Morvunskar Wayshrine | 莫万斯卡堡垒路点神龛 | 莫维纽斯卡堡垒指路祭坛
+| Kynesgrove Wayshrine | 基耐树林路点神龛 | 凯娜果园指路祭坛
+| Voljar Meadery Wayshrine | 沃尔哈尔蜜酒庄园路点神龛 | 沃尔嘉蜜酒坊指路祭坛
+| Cradlecrush Wayshrine | 粉碎摇篮路点神龛 | 破碎源地指路祭坛
+| Fort Amol Wayshrine | 阿莫勒堡路点神龛 | 阿莫勒要塞指路祭坛
+| Wittestadr Wayshrine | 维特斯塔德路点神龛 | 维迪斯塔德指路祭坛
+| Mistwatch Wayshrine | 观雾遗迹路点神龛 | 迷雾岗哨指路祭坛
+| Jorunn's Stand Wayshrine | 乔伦之座路点神龛 | 约鲁恩之立指路祭坛
+| Logging Camp Wayshrine | 伐木营地路点神龛 | 伐木营地指路祭坛
+| Skuldafn Wayshrine | 斯库达芬路点神龛 | 斯库达芬指路祭坛
+| Sulfur Pools Wayshrine | 硫磺池路点神龛 | 硫磺池指路祭坛
+| Senie Wayshrine | 塞尼路点神龛 | 西奈指路祭坛
+| Riften Wayshrine | 裂谷城路点神龛 | 裂谷城指路祭坛
+| Skald's Retreat Wayshrine | 吟唱者退隐处路点神龛 | 吟游者逸处指路祭坛
+| Trolhetta Wayshrine | 特罗赫塔路点神龛 | 托尔赫挞指路祭坛
+| Trolhetta Summit Wayshrine | 特罗赫塔峰会路点神龛 | 托尔赫挞山巅指路祭坛
+| West Narsis Wayshrine | 西纳西斯路点神龛 | 西纳西斯指路祭坛
+| Muth Gnaar Hills Wayshrine | 穆斯格纳尔山丘路点神龛 | 穆斯·格纳尔山丘指路祭坛
+| Quarantine Serk Wayshrine | 隔离村路点神龛 | 检疫站指路祭坛
+| Ghost Snake Vale Wayshrine | 幽灵蛇山谷路点神龛 | 幽灵蛇谷指路祭坛
+| Mournhold Wayshrine | 哀伤之城路点神龛 | 哀伤之城指路祭坛
+| Tal'Deic Grounds Wayshrine | 塔迪克地面路点神龛 | 塔尔德雷克指路祭坛
+| Obsidian Gorge Wayshrine | 黑曜石关隘路点神龛 | 黑曜石峡谷指路祭坛
+| Mzithumz Wayshrine | 姆济图姆兹路点神龛 | 姆兹苏姆指路祭坛
+| Honrich Tower Wayshrine | 亨利奇塔路点神龛 | 霍利奇塔指路祭坛
+| Selfora Wayshrine | 塞尔弗拉路点神龛 | 瑟尔夫拉指路祭坛
+| Silent Mire Wayshrine | 寂潭村路点神龛 | 寂静泥沼指路祭坛
+| Eidolon's Hollow Wayshrine | 埃多隆幽谷路点神龛 | 埃多伦洞穴指路祭坛
+| Fallowstone Hall Wayshrine | 休耕石厅路点神龛 | 休石大厅指路祭坛
+| Northwind Mine Wayshrine | 北风矿洞路点神龛 | 北风矿洞指路祭坛
+| Geirmund's Hall Wayshrine | 格尔蒙德大厅路点神龛 | 格尔曼德大厅指路祭坛
+| Taarengrav Wayshrine | 塔伦格拉夫路点神龛 | 塔伦格拉芙指路祭坛
+| Nimalten Wayshrine | 尼默滕路点神龛 | 尼莫顿指路祭坛
+| Ragged Hills Wayshrine | 参差山丘路点神龛 | 锯齿山丘指路祭坛
+| Fullhelm Fort Wayshrine | 富海姆堡垒路点神龛 | 全盔要塞指路祭坛
+| Vulkhel Guard Wayshrine | 弗克赫尔卫城路点神龛 | 弗柯尔之盾指路祭坛
+| Phaer Wayshrine | 法尔镇路点神龛 | 费尔指路祭坛
+| Tanzelwil Wayshrine | 坦泽维尔路点神龛 | 谭泽维尔指路祭坛
+| Firsthold Wayshrine | 第一要塞路点神龛 | 首堡指路祭坛
+| Mathiisen Wayshrine | 马蒂森路点神龛 | 漫希尔森指路祭坛
+| Skywatch Wayshrine | 天望城路点神龛 | 天望城指路祭坛
+| Quendeluun Wayshrine | 昆德伦路点神龛 | 昆德伦指路祭坛
+| College Wayshrine | 学院路点神龛 | 学院指路祭坛
+| Greenwater Wayshrine | 碧波路点神龛 | 绿水指路祭坛
+| Fort Zeren Wayshrine | 泽瑞堡路点神龛 | 泽伦要塞指路祭坛
+| Foyen Docks Wayshrine | 弗延码头路点神龛 | 佛耶港指路祭坛
+| Windy Glade Wayshrine | 清风林地路点神龛 | 风林空地指路祭坛
+| Divad's Chagrin Mine Wayshrine | 迪瓦德之愤矿洞路点神龛 | 帝怀德之懊矿洞指路祭坛
+| Kulati Mines Wayshrine | 库拉提矿场路点神龛 | 库拉提矿场指路祭坛
+| Aswala Stables Wayshrine | 阿斯瓦拉马厩路点神龛 | 阿斯瓦拉马厩指路祭坛
+| Sep's Spine Wayshrine | 赛普峰路点神龛 | 蛇脊指路祭坛
+| Port Hunding Wayshrine | 亨丁港路点神龛 | 香丁港指路祭坛
+| Sandy Grotto Wayshrine | 沙地岩洞路点神龛 | 砂砾石窟指路祭坛
+| Saintsport Wayshrine | 圣徒港路点神龛 | 圣徒港指路祭坛
+| Wayrest Wayshrine | 途歇城路点神龛 | 途歇城指路祭坛
+| Stonetooth Wayshrine | 石牙路点神龛 | 石牙指路祭坛
+| Grimfield Wayshrine | 格里姆菲尔德路点神龛 | 冷酷之地指路祭坛
+| Carved Hills Wayshrine | 雕刻山丘路点神龛 | 岩刻丘陵指路祭坛
+| Bonesnap Ruins Wayshrine | 碎骨废墟路点神龛 | 断骨废墟指路祭坛
+| Library of Dusk Wayshrine | 黄昏图书馆路点神龛 | 黄昏图书馆指路祭坛
+| Great Shackle Wayshrine | 巨型枷锁路点神龛 | 巨大锁链指路祭坛
+| The Chasm Wayshrine | 鸿沟路点神龛 | 深渊指路祭坛
+| Hollow City Wayshrine | 空洞之城路点神龛 | 虚幻之城指路祭坛
+| Endless Stair Wayshrine | 无尽阶梯路点神龛 | 无尽阶梯指路祭坛
+| Everfull Flagon Wayshrine | 满溢大酒壶路点神龛 | 无尽酒壶指路祭坛
+| Moonless Walk Wayshrine | 无月之路路点神龛 | 黑月走廊指路祭坛
+| Haj Uxith Wayshrine | 隐藏之巢路点神龛 | 哈吉·乌西斯指路祭坛
+| Manor of Revelry Wayshrine | 欢宴庄园路点神龛 | 欢宴庄园指路祭坛
+| Reaver Citadel Wayshrine | 收割者堡垒路点神龛 | 掠夺者要塞指路祭坛
+| The Orchard Wayshrine | 果园路点神龛 | 果园指路祭坛
+| Khenarthi's Roost Wayshrine | 柯娜西之栖路点神龛 | 吉娜希之栖指路祭坛
+| Mistral Wayshrine | 米斯特拉尔路点神龛 | 米斯裘指路祭坛
+| Shrikes' Aerie Wayshrine | 夏克鹫巢路点神龛 | 伯劳高所指路祭坛
+| HoonDing's Watch Wayshrine | 洪丁哨岗路点神龛 | 洪丁哨所指路祭坛
+| Shrouded Plains Wayshrine | 匿影平原路点神龛 | 笼罩平原指路祭坛
+| Court of Contempt Wayshrine | 蔑视法庭路点神龛 | 蔑视之庭指路祭坛
+| Greenheart Wayshrine | 绿心镇路点神龛 | 绿荫之心指路祭坛
+| Marbruk Wayshrine | 马布鲁克路点神龛 | 玛布鲁克指路祭坛
+| Labyrinth Wayshrine | 环树迷宫路点神龛 | 迷宫指路祭坛
+| Falinesti Wayshrine | 法林奈斯提路点神龛 | 佛莲纳提指路祭坛
+| Seaside Sanctuary Wayshrine | 海滨圣所路点神龛 | 海滨庇护所指路祭坛
+| Verrant Morass Wayshrine | 维兰特沼泽路点神龛 | 维伦林沼指路祭坛
+| Woodhearth Wayshrine | 木炉城路点神龛 | 森炉城指路祭坛
+| Moonhenge Wayshrine | 月亮石圈阵路点神龛 | 月阵指路祭坛
+| Serpent's Grotto Wayshrine | 毒蛇洞窟路点神龛 | 毒蛇洞窟指路祭坛
+| Goat's Head Oasis Wayshrine | 羊首绿洲路点神龛 | 羊头绿洲指路祭坛
+| Vinedusk Wayshrine | 瓦因达斯路点神龛 | 黄昏之藤指路祭坛
+| Fort Grimwatch Wayshrine | 森严哨岗堡垒路点神龛 | 凄望堡指路祭坛
+| Fort Sphinxmoth Wayshrine | 斯芬克斯莫斯堡垒路点神龛 | 斯芬克斯摩斯堡指路祭坛
+| Arenthia Wayshrine | 阿伦西亚路点神龛 | 阿兰西亚指路祭坛
+| Dune Wayshrine | 沙丘城路点神龛 | 沙丘城指路祭坛
+| Willowgrove Wayshrine | 柳树林路点神龛 | 柳园指路祭坛
+| Moonmont Wayshrine | 月山路点神龛 | 双月指路祭坛
+| Rawl'kha Wayshrine | 罗尔卡路点神龛 | 罗尔'伽指路祭坛
+| S'ren-ja Wayshrine | 塞伦加路点神龛 | 斯兰-加指路祭坛
+| Elden Root Wayshrine | 艾尔登之根路点神龛 | 长者之树指路祭坛
+| Gil-Var-Delle Wayshrine | 吉尔-瓦尔-戴拉路点神龛 | 吉尔-瓦尔-代勒指路祭坛
+| Elden Root Temple Wayshrine | 艾尔登之根神殿路点神龛 | 长者之树神庙指路祭坛
+| Haven Wayshrine | 哈文港路点神龛 | 海玟港指路祭坛
+| Redfur Trading Post Wayshrine | 赤皮交易站路点神龛 | 红皮贸易站指路祭坛
+| Southpoint Wayshrine | 南据城路点神龛 | 南点指路祭坛
+| Cormount Wayshrine | 戈尔蒙特路点神龛 | 考蒙特指路祭坛
+| Ossuary Wayshrine | 藏骨堂路点神龛 | 人骨教堂指路祭坛
+| North High Rock Gate Wayshrine | 北方高岩之门路点神龛 | 北高岩大门指路祭坛
+| South High Rock Gate Wayshrine | 南方高岩之门路点神龛 | 南高岩大门指路祭坛
+| Eastern Elsweyr Gate Wayshrine | 东方艾斯维尔之门路点神龛 | 东艾斯维尔隘指路祭坛
+| Western Elsweyr Gate Wayshrine | 西方艾斯维尔之门路点神龛 | 西艾斯维尔隘指路祭坛
+| North Morrowind Gate Wayshrine | 北方晨风之门路点神龛 | 北晨风大门指路祭坛
+| South Morrowind Gate Wayshrine | 南方晨风之门路点神龛 | 南晨风大门指路祭坛
+| Eastern Evermore Wayshrine | 永恒城东部路点神龛 | 永恒城东侧指路祭坛
+| Shad Astula Wayshrine | 沙德阿祖拉路点神龛 | 沙德·阿兹图拉指路祭坛
+| Halcyon Lake Wayshrine | 翡翠湖路点神龛 | 宁静湖指路祭坛
+| Gray Mire Wayshrine | 灰潭路点神龛 | 灰暗泥潭指路祭坛
+| Shrouded Pass Wayshrine | 遮蔽通道路点神龛 | 隐秘之路指路祭坛
+| Seeker's Archive Wayshrine | 求索者档案馆路点神龛 | 追寻者的书库指路祭坛
+| Sandy Path Wayshrine | 沙地小径路点神龛 | 砂砾古道指路祭坛
+| Shada's Tear Wayshrine | 莎达之泪路点神龛 | 沙达之泪指路祭坛
+| Falinesti Winter Wayshrine | 法林奈斯提冬日路点神龛 | 佛莲纳提冬之指路祭坛
+| Belkarth Wayshrine | 贝尔卡斯路点神龛 | 贝尔卡斯指路祭坛
+| Eyevea Wayshrine | 艾维岛路点神龛 | 艾维雅指路祭坛
+| Hag Fen Wayshrine | 鬼婆沼泽路点神龛 | 鸦婆沼泽指路祭坛
+| Earth Forge Wayshrine | 大地熔炉路点神龛 | 大地熔炉指路祭坛
+| Abah's Landing Wayshrine | 阿巴登陆点路点神龛 | 阿巴码头指路祭坛
+| Elinhir Wayshrine | 爱林希尔路点神龛 | 艾琳赫尔指路祭坛
+| Spellscar Wayshrine | 法术伤痕路点神龛 | 咒法之痕指路祭坛
+| Mountain Overlook Wayshrine | 山顶瞭望点路点神龛 | 山峰高台指路祭坛
+| Inazzur's Hold Wayshrine | 伊纳祖尔的要塞路点神龛 | 伊纳祖尔要塞指路祭坛
+| Siege Road Wayshrine | 围攻之路路点神龛 | 围攻之路指路祭坛
+| Frostbreak Ridge Wayshrine | 霜断山脊路点神龛 | 霜破山脉指路祭坛
+| Trader's Road Wayshrine | 商人之路路点神龛 | 贸易者之路指路祭坛
+| Orsinium Wayshrine | 奥辛纽姆路点神龛 | 奥辛纽姆指路祭坛
+| Shatul Wayshrine | 沙图尔路点神龛 | 沙图尔指路祭坛
+| Great Bay Wayshrine | 大海湾路点神龛 | 大海湾指路祭坛
+| Two Rivers Wayshrine | 双河路点神龛 | 双河指路祭坛
+| Icy Shore Wayshrine | 冰封海岸路点神龛 | 冰封海岸指路祭坛
+| Morkul Plain Wayshrine | 莫库尔平原路点神龛 | 莫库尔平原指路祭坛
+| Dragonstar Wayshrine | 龙星城路点神龛 | 龙星镇指路祭坛
+| Skyreach Wayshrine | 天临路点神龛 | 天临指路祭坛
+| Valley of Scars Wayshrine | 伤痕谷路点神龛 | 伤痕溪谷指路祭坛
+| Merchant's Gate Wayshrine | 商人之门路点神龛 | 商业关隘指路祭坛
+| Zeht's Displeasure Wayshrine | 闷闷不乐的泽特路点神龛 | 兹特之哀指路祭坛
+| No Shira Citadel Wayshrine | 诺·什拉堡垒路点神龛 | 诺·施拉要塞指路祭坛
+| Anvil Wayshrine | 铁砧城路点神龛 | 安维尔指路祭坛
+| Kvatch Wayshrine | 科瓦奇路点神龛 | 科瓦奇指路祭坛
+| Strid River Wayshrine | 斯特里德河流路点神龛 | 窄谷河口指路祭坛
+| Gold Coast Wayshrine | 黄金海岸路点神龛 | 黄金海岸指路祭坛
+| West Gash Wayshrine | 西部峡谷路点神龛 | 西境之痕指路祭坛
+| Urshilaku Camp Wayshrine | 厄施拉库营地路点神龛 | 厄施拉库营地指路祭坛
+| Gnisis Wayshrine | 吉尼西斯路点神龛 | 尼希斯指路祭坛
+| Ald'ruhn Wayshrine | 奥德鲁恩路点神龛 | 傲德'汝因指路祭坛
+| Balmora Wayshrine | 巴莫拉路点神龛 | 巴尔莫拉指路祭坛
+| Seyda Neen Wayshrine | 赛达尼恩路点神龛 | 辛达·尼指路祭坛
+| Suran Wayshrine | 苏兰路点神龛 | 苏兰指路祭坛
+| Molag Mar Wayshrine | 莫拉格玛尔路点神龛 | 莫拉格·玛尔指路祭坛
+| Tel Branora Wayshrine | 泰尔布拉诺拉路点神龛 | 泰尔·巴兰诺拉指路祭坛
+| Vivec City Wayshrine | 维威克城路点神龛 | 维威克城指路祭坛
+| Nchuleftingth Wayshrine | 纳曲莱夫庭斯路点神龛 | 纳曲莱夫庭斯指路祭坛
+| Tel Mora Wayshrine | 泰尔莫拉路点神龛 | 泰尔·莫拉指路祭坛
+| Sadrith Mora Wayshrine | 沙迪斯莫拉路点神龛 | 撒迪尔斯·莫拉指路祭坛
+| Valley of the Wind Wayshrine | 风之谷路点神龛 | 风之谷指路祭坛
+| Vivec Temple Wayshrine | 维威克神庙路点神龛 | 维威克神龛指路祭坛
+| Brass Fortress Wayshrine | 黄铜堡垒路点神龛 | 黄铜要塞指路祭坛
+| Clockwork Crossroads Wayshrine | 发条城交叉路口路点神龛 | 发条十字路口指路祭坛
+| Mire Mechanica Wayshrine | 机械沼泽路点神龛 | 机械沼泽指路祭坛
+| Sanctuary Wayshrine | 圣所路点神龛 | 庇护所指路祭坛
+| King's Haven Pass Wayshrine | 国王港隘口路点神龛 | 国王之港通道指路祭坛
+| Shimmerene Wayshrine | 希姆莫伦路点神龛 | 微光城指路祭坛
+| Sil-Var-Woad Wayshrine | 席尔瓦沃德路点神龛 | 希尔-瓦-沃德指路祭坛
+| Russafeld Heights Wayshrine | 绯红圣地顶部路点神龛 | 鲁萨菲尔德高地指路祭坛
+| Cey-Tarn Keep Wayshrine | 塞伊·塔恩要塞路点神龛 | 塞伊山泉堡垒指路祭坛
+| Ebon Stadmont Wayshrine | 黑檀斯塔德蒙特路点神龛 | 黑檀迷阵指路祭坛
+| Eldbur Ruins Wayshrine | 艾德布尔废墟路点神龛 | 埃尔德堡废墟指路祭坛
+| Alinor Wayshrine | 阿里诺尔路点神龛 | 艾琳诺指路祭坛
+| Lillandril Wayshrine | 利兰德里尔路点神龛 | 利兰迪尔指路祭坛
+| Eastern Pass Wayshrine | 东部山道路点神龛 | 东部通道指路祭坛
+| The Crystal Tower Wayshrine | 水晶塔路点神龛 | 水晶塔指路祭坛
+| Artaeum Wayshrine | 阿蒂姆路点神龛 | 阿塔姆指路祭坛
+| Sunhold Wayshrine | 太阳要塞路点神龛 | 阳曦城指路祭坛
+| Veyond Wyte Wayshrine | 维扬怀特路点神龛 | 维昂德·怀特指路祭坛
+| Lilmoth Wayshrine | 利尔莫斯路点神龛 | 利尔蒙斯指路祭坛
+| Bright-Throat Wayshrine | 亮喉路点神龛 | 明喉指路祭坛
+| Dead-Water Wayshrine | 冥潭路点神龛 | 死水指路祭坛
+| Root-Whisper Wayshrine | 根语者路点神龛 | 根吟指路祭坛
+| Blackrose Prison Wayshrine | 黑玫瑰监狱路点神龛 | 黑玫瑰监狱指路祭坛
+| Riverhold Wayshrine | 河堡镇路点神龛 | 河堡城指路祭坛
+| Rimmen Wayshrine | 瑞门路点神龛 | 雷蒙指路祭坛
+| The Stitches Wayshrine | 史迪奇路点神龛 | 刺绣镇指路祭坛
+| Tenmar Temple Wayshrine | 滕玛尔神庙路点神龛 | 藤茂神庙指路祭坛
+| Star Haven Wayshrine | 星港路点神龛 | 星港指路祭坛
+| Scar's End Wayshrine | 伤痕尽头路点神龛 | 疤痕之末指路祭坛
+| Hakoshae Wayshrine | 哈柯夏路点神龛 | 哈科西指路祭坛
+| Senchal Wayshrine | 森查尔路点神龛 | 森察指路祭坛
+| South Guard Ruins Wayshrine | 南部守卫遗迹路点神龛 | 南部驻地废墟指路祭坛
+| Western Plains Wayshrine | 西部平原路点神龛 | 西部平原指路祭坛
+| Black Heights Wayshrine | 黑色高地路点神龛 | 黑色高地指路祭坛
+| Pridehome Wayshrine | 骄傲之家路点神龛 | 狮傲堂指路祭坛
+| Dragonguard Sanctum Wayshrine | 龙卫圣所路点神龛 | 龙卫圣所指路祭坛
+| Dusktown Wayshrine | 黄昏镇路点神龛 | 黄昏城指路祭坛
+| Greymoor Keep Wayshrine | 灰沼要塞路点神龛 | 灰沼主堡指路祭坛
+| Lightless Hollow Wayshrine | 无光幽谷路点神龛 | 无光洞穴指路祭坛
+| Dark Moon Grotto Wayshrine | 暗月洞窟路点神龛 | 暗月石窟指路祭坛
+| Kilkreath Temple Wayshrine | 柯克里斯神庙路点神龛 | 基尔克瑞斯神庙指路祭坛
+| Morthal Wayshrine | 莫萨尔城路点神龛 | 莫萨尔指路祭坛
+| Mor Khazgur Wayshrine | 莫·卡兹古尔路点神龛 | 莫尔·卡兹古尔指路祭坛
+| Dragon Bridge Wayshrine | 龙桥路点神龛 | 龙桥指路祭坛
+| Southern Watch Wayshrine | 南哨岗路点神龛 | 南望指路祭坛
+| Frozen Coast Wayshrine | 冰冻海岸路点神龛 | 冰冻海岸指路祭坛
+| Solitude Wayshrine | 独孤城路点神龛 | 独孤城指路祭坛
+| Solitude Docks Wayshrine | 独孤城码头路点神龛 | 独孤城港口指路祭坛
+| Deepwood Vale Wayshrine | 深林谷路点神龛 | 深木溪谷指路祭坛
+| Dwarven Run Wayshrine | 锻莫跑道路点神龛 | 锻莫之行指路祭坛
+| Grotto Falls Wayshrine | 石窟瀑布路点神龛 | 石窟瀑布指路祭坛
+| Deep Overlook Wayshrine | 深邃瞭望点路点神龛 | 深处眺望点指路祭坛
+| Western Greymoor Wayshrine | 灰沼西区路点神龛 | 灰沼西部指路祭坛
+| North Markarth Wayshrine | 马卡斯城北部路点神龛 | 北玛卡斯指路祭坛
+| Karthwasten Wayshrine | 卡斯威斯腾路点神龛 | 卡瓦斯滕指路祭坛
+| Briar Rock Wayshrine | 荆棘岩路点神龛 | 棘石指路祭坛
+| Rebel's Retreat Wayshrine | 反抗军藏身处路点神龛 | 叛徒的寓所指路祭坛
+| Lost Valley Wayshrine | 失落山谷路点神龛 | 失落溪谷指路祭坛
+| Druadach Mountains Wayshrine | 逐达奇山峦路点神龛 | 德拉达奇山指路祭坛
+| Arkthzand Wayshrine | 阿克赞德路点神龛 | 阿克斯赞指路祭坛
+| Nighthollow Wayshrine | 夜谷路点神龛 | 夜之洞指路祭坛
+| Markarth Wayshrine | 马卡斯城路点神龛 | 玛卡斯指路祭坛
+| Giant's Coast Wayshrine | 巨人海岸路点神龛 | 巨人海岸指路祭坛
+| Northern Watch Wayshrine | 北部戍所路点神龛 | 北望指路祭坛
+| Bloodrun Wayshrine | 血途路点神龛 | 血奔指路祭坛
+| Leyawiin Wayshrine | 乐雅文路点神龛 | 利雅文指路祭坛
+| Gideon Wayshrine | 吉德昂路点神龛 | 吉迪昂指路祭坛
+| Borderwatch Wayshrine | 边境守望路点神龛 | 边望指路祭坛
+| Fort Redmane Wayshrine | 红鬃堡路点神龛 | 红鬃堡指路祭坛
+| Blueblood Wayshrine | 蓝血路点神龛 | 蓝血指路祭坛
+| Stonewastes Wayshrine | 屑石村路点神龛 | 废石指路祭坛
+| Leyawiin Outskirts Wayshrine | 乐雅文郊区路点神龛 | 利雅文近郊指路祭坛
+| Raging Coast Wayshrine | 愤怒海岸路点神龛 | 狂怒海岸指路祭坛
+| The Blood Pit Wayshrine | 鲜血深坑路点神龛 | 血坑指路祭坛
+| Ardent Hope Wayshrine | 热切之希望路点神龛 | 炽热之望指路祭坛
+| Wretched Spire Wayshrine | 恶毒尖刺路点神龛 | 悲惨尖塔指路祭坛
+| False Martyrs' Folly Wayshrine | 虚假的殉道者愚行路点神龛 | 虚伪殉徒之愚指路祭坛
+| Annihilarch's Summit Wayshrine | 安妮希拉驰顶峰路点神龛 | 寂灭之巅指路祭坛
+| Doomvault Vulpinaz Wayshrine | 诡计末日密库路点神龛 | 毁灭密室废墟指路祭坛
+| Blackwood Crossroads Wayshrine | 黑木交叉路口路点神龛 | 黑森林十字路口指路祭坛
+| Hutan-Tzel Wayshrine | 胡坦泽尔路点神龛 | 胡坦-蔡尔指路祭坛
+| Vunalk Wayshrine | 乌纳克路点神龛 | 瓦纳尔克指路祭坛
+| Coral Road Wayshrine | 珊瑚路路点神龛 | 珊瑚之路指路祭坛
+| Tor Draioch Wayshrine | 托尔·达奥奇路点神龛 | 德莱欧驰岩岭指路祭坛
+| Steadfast Manor Wayshrine | 坚固庄园路点神龛 | 坚毅庄园指路祭坛
+| Castle Navire Wayshrine | 纳维尔城堡路点神龛 | 纳维尔城堡指路祭坛
+| Garick's Rest Wayshrine | 加里克栖所路点神龛 | 加瑞克之息指路祭坛
+| Stonelore Grove Wayshrine | 石刻之识树林路点神龛 | 石学树林指路祭坛
+| Dufort Shipyards Wayshrine | 度佛特船厂路点神龛 | 杜福特船坞指路祭坛
+| Amenos Station Wayshrine | 阿梅诺斯休息站路点神龛 | 阿蒙诺斯驻地指路祭坛
+| Brokerock Wayshrine | 碎石路点神龛 | 碎岩指路祭坛
+| All Flags Wayshrine | 全旗路点神龛 | 全旗指路祭坛
+| Trappers Peak Wayshrine | 诱捕者之峰路点神龛 | 诱捕者之峰指路祭坛
+| Westbay Wayshrine | 西海湾路点神龛 | 西海湾指路祭坛
+| Gonfalon Square Wayshrine | 贡法隆广场路点神龛 | 旌旗广场指路祭坛
+| Fargrave Outskirts Wayshrine | 法格雷夫郊区路点神龛 | 遥墓城近郊指路祭坛
+| The Shambles Wayshrine | 肉铺街路点神龛 | 屠宰场指路祭坛
+| Wounded Crossing Wayshrine | 受伤之路路点神龛 | 创伤岔口指路祭坛
+| The Scourshales Wayshrine | 冲击岩路点神龛 | 冲刷岩地指路祭坛
+| Fargrave Wayshrine | 法格雷夫路点神龛 | 遥墓城指路祭坛
+| Serpents Hollow Wayshrine | 巨蛇洞穴路点神龛 | 毒蛇洞穴指路祭坛
+| Flooded Coast Wayshrine | 洪水海岸路点神龛 | 浸没海岸指路祭坛
+| Vastyr Outskirts Wayshrine | 瓦斯提尔郊区路点神龛 | -
+| Glimmertarn Wayshrine | 光湖路点神龛 | -
+| Embervine Wayshrine | 灰烬藤路点神龛 | -
+| Llanshara Wayshrine | 兰沙拉路点神龛 | -
+| Y'free's Path Wayshrine | 耶弗尔之路路点神龛 | -
+| Vastyr Wayshrine | 瓦斯提尔路点神龛 | -
+| Eastern Shores Wayshrine | 东部海岸路点神龛 | -
+
 ## 地点
 
 | 英文 | 官中 | 微攻略
@@ -267,64 +619,18 @@
 | The Atronach | 侍灵 | 侍灵
 | The Shadow | 暗影 | 暗影
 | The Serpent | 巨蛇 | 毒蛇
-| Stillrise Wayshrine | 静升镇路点神龛 | 冉升指路祭坛
 | Ebon Crypt | 乌木地穴 | 漆黑地窖
 | Cryptwatch Fort | 守望地堡 | 地窖望堡垒
-| Stormhold Wayshrine | 风暴之城路点神龛 | 风暴堡指路祭坛
-| Hatching Pools Wayshrine | 孵化池路点神龛 | 韵生池指路祭坛
-| Bogmother Wayshrine | 沼母路点神龛 | 沼泽之母指路祭坛
-| Alten Corimont Wayshrine | 科里蒙港路点神龛 | 亚尔藤·科里蒙特指路祭坛
-| Wyrd Tree Wayshrine | 命运之树路点神龛 | 命运圣树指路祭坛
-| Percolating Mire Wayshrine | 渗透沼泽路点神龛 | 渗透沼泽指路祭坛
-| Aldcroft Wayshrine | 奥尔德克罗夫特路点神龛 | 奥德考夫特指路祭坛
-| Hissmir Wayshrine | 希斯米尔路点神龛 | 希斯米尔指路祭坛
-| Deleyn's Mill Wayshrine | 德莱恩磨坊路点神龛 | 德里茵磨坊指路祭坛
-| Loriasel Wayshrine | 诺里亚斯利路点神龛 | 洛里亚瑟指路祭坛
-| Eagle's Brook Wayshrine | 鹰河路点神龛 | 鹰溪镇指路祭坛
-| Venomous Fens Wayshrine | 有毒沼泽路点神龛 | 怨恨沼泽指路祭坛
-| North Hag Fen Wayshrine | 鬼婆沼泽北区路点神龛 | 鸦婆沼泽北部指路祭坛
-| Lion Guard Redoubt Wayshrine | 雄狮卫堡垒路点神龛 | 雄狮护卫团前哨所指路祭坛
-| Crosswych Wayshrine | 克罗斯维奇路点神龛 | 十字女巫镇指路祭坛
-| Farwatch Wayshrine | 远望塔路点神龛 | 远眺指路祭坛
 | The Steed | 天马 | 战马
-| Baelborne Rock Wayshrine | 贝尔伯恩岩堡路点神龛 | 贝尔博之岩指路祭坛
 | The Apprentice | 学徒 | 学徒
-| Evermore Wayshrine | 永恒城路点神龛 | 永恒城指路祭坛
-| Daggerfall Wayshrine | 匕落路点神龛 | 匕落城指路祭坛
-| Burial Tombs Wayshrine | 墓冢路点神龛 | 埋葬之墓指路祭坛
-| Troll's Toothpick Wayshrine | 巨魔的牙签路点神龛 | 巨魔的牙签指路祭坛
-| Viridian Woods Wayshrine | 深翠之林路点神龛 | 铭绿森林指路祭坛
-| Bangkorai Pass Wayshrine | 班古莱山隘路点神龛 | 班科莱古道指路祭坛
-| Nilata Ruins Wayshrine | 尼拉塔遗迹路点神龛 | 内拉达废墟指路祭坛
-| Hallin's Stand Wayshrine | 哈林要塞路点神龛 | 哈林驻地指路祭坛
-| Old Tower Wayshrine | 古塔路点神龛 | 老塔指路祭坛
-| Onsi's Breath Wayshrine | 傲希之息路点神龛 | 翁诗之息指路祭坛
-| Sunken Road Wayshrine | 沉没之路路点神龛 | 沉没之路指路祭坛
 | The Lover | 恋人 | 恋人
 | The Lady | 淑女 | 女神
 | Dwynnarth Ruins | 德温纳斯废墟 | 德怀纳斯废墟
 | Cambray Pass | 康布雷关隘 | 坎伯雷山口
 | Old Tower | 古塔 | 老塔
 | Murcien's Hamlet | 穆尔西恩村 | 莫申小村
-| Forsaken Hamlet Wayshrine | 遗弃之村路点神龛 | 遗弃村庄指路祭坛
-| Koeglin Village Wayshrine | 克格林村路点神龛 | 柯因德琳村指路祭坛
-| Alcaire Castle Wayshrine | 阿尔凯瑞城堡路点神龛 | 阿尔卡亚城堡指路祭坛
-| Firebrand Keep Wayshrine | 纵火者要塞路点神龛 | 火烙堡垒指路祭坛
-| Wind Keep Wayshrine | 狂风要塞路点神龛 | 风之堡指路祭坛
-| Dro-Dara Plantation Wayshrine | 多罗多拉种植园路点神龛 | 德罗-达拉种植园指路祭坛
-| Soulshriven Wayshrine | 丧魂傀儡路点神龛 | 灵魂忏悔者指路祭坛
-| Pariah Abbey Wayshrine | 帕里亚修道院路点神龛 | 流放者大修道院指路祭坛
-| Oldgate Wayshrine | 旧关口路点神龛 | 古老关隘指路祭坛
-| Crestshade Wayshrine | 峰影路点神龛 | 岭荫镇指路祭坛
-| Camp Tamrith Wayshrine | 塔姆里斯营地路点神龛 | 塔姆锐斯营地指路祭坛
 | Hoarfrost Downs | 啸霜丘原 | 白霜山丘
-| Boralis Wayshrine | 波拉里斯路点神龛 | 博纳尼斯指路祭坛
-| Staging Grounds Wayshrine | 幕帷地路点神龛 | 集结地指路祭坛
 | Tribunal Temple | 审判庭神殿 | 审判席神庙
-| Northpoint Wayshrine | 北据城路点神龛 | 北角镇指路祭坛
-| Fell's Run Wayshrine | 兽皮疾走路点神龛 | 费尔之道指路祭坛
-| Hoarfrost Downs Wayshrine | 啸霜丘原路点神龛 | 白霜山丘指路祭坛
-| Shornhelm Wayshrine | 断盔城路点神龛 | 断盔城指路祭坛
 | Portdun Watch | 波尔敦戍所 | 波顿哨塔
 | Koeglin Mine | 克格林矿洞 | 柯因德琳矿洞
 | Pariah Catacombs | 帕里亚墓穴 | 流放者墓窟
@@ -337,11 +643,6 @@
 | Orc's Finger Ruins | 兽人之指废墟 | 兽人之指废墟
 | Erokii Ruins | 厄洛基废墟 | 埃罗基遗迹
 | Hildune's Secret Refuge | 希尔杜因的秘密避难所 | 希尔敦的秘密避难所
-| Morwha's Bounty Wayshrine | 莫瓦赏金营地路点神龛 | 莫尔瓦的恩惠指路祭坛
-| Sentinel Wayshrine | 哨兵城路点神龛 | 哨卫城指路祭坛
-| Bergama Wayshrine | 贝尔加玛路点神龛 | 帕加马指路祭坛
-| Leki's Blade Wayshrine | 勒奇之刃路点神龛 | 蕾姬之刃指路祭坛
-| Satakalaam Wayshrine | 萨塔卡拉姆路点神龛 | 萨塔卡拉姆指路祭坛
 | The Tower | 高塔 | 高塔
 | The Mage | 法尊 | 法师
 | The Lord | 君主座 | 君王
@@ -349,24 +650,12 @@
 | Skald's Retreat | 吟唱者退隐处 | 吟游者逸处
 | Loriasel | 诺里亚斯利 | 洛里亚瑟
 | Shad Astula | 沙德阿祖拉 | 沙德·阿兹图拉
-| Davon's Watch Wayshrine | 达文卫城路点神龛 | 达文之望指路祭坛
-| Othrenis Wayshrine | 奥瑟尼斯路点神龛 | 奥瑟伦尼斯指路祭坛
-| Fort Arand Wayshrine | 阿兰德堡路点神龛 | 阿兰德要塞指路祭坛
-| Ebonheart Wayshrine | 黑檀心路点神龛 | 黑檀心城指路祭坛
-| Vivec's Antlers Wayshrine | 维威克的鹿角路点神龛 | 维威克的鹿角指路祭坛
-| Brothers of Strife Wayshrine | 阋墙兄弟路点神龛 | 阋墙兄弟指路祭坛
 | Santaki | 桑卡提 | 桑塔基
 | Divad's Chagrin Mine | 迪瓦德之愤矿洞 | 帝怀德之怨矿洞
 | Aldunz | 阿尔登兹 | 阿尔顿兹
 | Coldrock Diggings | 冷岩矿洞 | 冷岩挖掘点
-| Hrogar's Hold Wayshrine | 罗格堡垒路点神龛 | 赫罗嘉要塞指路祭坛
 | Sandblown Mine | 飞沙矿洞 | 扬沙矿洞
 | Yldzuun | 伊德尊 | 伊德佐
-| Fort Virak Wayshrine | 维拉克堡垒路点神龛 | 弗莱克要塞指路祭坛
-| Iliath Temple Wayshrine | 伊利亚斯神殿路点神龛 | 埃里莱斯神庙指路祭坛
-| Sathram Plantation Wayshrine | 萨斯拉姆种植园路点神龛 | 萨斯拉姆大农场指路祭坛
-| Kragenmoor Wayshrine | 凯根摩尔路点神龛 | 凯根摩尔指路祭坛
-| Ashen Road Wayshrine | 灰烬之路路点神龛 | 灰烬之路指路祭坛
 | Torog's Spite | 托罗格的怨恨 | 托罗格矿洞
 | Troll's Toothpick | 巨魔的牙签 | 巨魔的牙签
 | Viridian Watch | 深翠戍所 | 铭绿哨塔
@@ -394,7 +683,6 @@
 | Howling Cave | 嚎叫洞穴 | 嗥叫洞穴
 | Silverscale Pond | 银鳞池塘 | 银鳞之池
 | Skyshroud Barrow | 天帷古墓 | 天帷古坟
-| Bleakrock Wayshrine | 荒岩路点神龛 | 暗岩指路祭坛
 | Hozzin's Folly | 霍祖印的园林 | 霍金庄园
 | Bleakrock Village | 荒岩村庄 | 暗岩村
 | Ceyatatar | 瑟亚塔达 | 星亚塔它尔
@@ -434,24 +722,12 @@
 | Softloam Cavern | 软土洞穴 | 松壤洞穴
 | Kynesgrove | 基耐树林 | 凯娜果园
 | Dhalmora | 达莫拉 | 达莫拉
-| Dhalmora Wayshrine | 达莫拉路点神龛 | 达莫拉指路祭坛
 | Windhelm | 风盔城 | 风舵城
 | Fort Morvunskar | 莫万斯卡堡垒 | 莫维纽斯卡堡垒
 | Deepwoods | 深林 | 幽邃之森
 | Ouze | 欧泽 | 狞泥
 | Jorunn's Stand | 乔伦之座 | 约鲁恩之立
-| Dra'bul Wayshrine | 德拉布尔路点神龛 | 德拉'布尔指路祭坛
-| Ilayas Ruins Wayshrine | 伊拉亚斯废墟路点神龛 | 伊拉雅思废墟指路祭坛
-| Velyn Harbor Wayshrine | 维林港路点神龛 | 薇灵港指路祭坛
-| Vulkwasten Wayshrine | 沃克瓦森路点神龛 | 弗柯瓦斯藤指路祭坛
-| Abamath Wayshrine | 阿巴马斯路点神龛 | 阿巴马斯指路祭坛
-| Wilding Run Wayshrine | 荒林之地路点神龛 | 野路指路祭坛
-| Baandari Post Wayshrine | 班达理站路点神龛 | 班达瑞站指路祭坛
-| Bloodtoil Valley Wayshrine | 血役山谷路点神龛 | 血圈谷指路祭坛
-| Sanguine Barrows Wayshrine | 血腥古墓路点神龛 | 血腥古坟指路祭坛
-| Valeguard Wayshrine | 山谷驻防点路点神龛 | 溪谷要塞指路祭坛
 | Cradlecrush | 粉碎摇篮 | 破碎源地
-| Weeping Giant Wayshrine | 哭泣巨人路点神龛 | 含泪巨人指路祭坛
 | Mzulft | 祖伏特 | 马祖尔夫特
 | Valeguard | 山谷驻防点 | 溪谷要塞
 | Bloodtoil Valley | 血役山谷 | 血圈谷
@@ -476,17 +752,6 @@
 | Nimalten | 尼默滕 | 尼莫顿
 | Forgotten Crypts | 遗忘地穴 | 遗忘墓穴
 | Fort Amol | 阿莫勒堡 | 阿莫勒要塞
-| Windhelm Wayshrine | 风盔城路点神龛 | 风舵城指路祭坛
-| Fort Morvunskar Wayshrine | 莫万斯卡堡垒路点神龛 | 莫维纽斯卡堡垒指路祭坛
-| Kynesgrove Wayshrine | 基耐树林路点神龛 | 凯娜果园指路祭坛
-| Voljar Meadery Wayshrine | 沃尔哈尔蜜酒庄园路点神龛 | 沃尔嘉蜜酒坊指路祭坛
-| Cradlecrush Wayshrine | 粉碎摇篮路点神龛 | 破碎源地指路祭坛
-| Fort Amol Wayshrine | 阿莫勒堡路点神龛 | 阿莫勒要塞指路祭坛
-| Wittestadr Wayshrine | 维特斯塔德路点神龛 | 维迪斯塔德指路祭坛
-| Mistwatch Wayshrine | 观雾遗迹路点神龛 | 迷雾岗哨指路祭坛
-| Jorunn's Stand Wayshrine | 乔伦之座路点神龛 | 约鲁恩之立指路祭坛
-| Logging Camp Wayshrine | 伐木营地路点神龛 | 伐木营地指路祭坛
-| Skuldafn Wayshrine | 斯库达芬路点神龛 | 斯库达芬指路祭坛
 | Mistwatch | 观雾 | 迷雾岗哨
 | Fallowstone Hall | 休耕石厅 | 休石大厅
 | Northwind Mine | 北风矿洞 | 北风矿洞
@@ -506,7 +771,6 @@
 | Ezduiin | 埃兹杜因 | 伊泽杜因
 | Emberflint Mine | 余烬燧石矿场 | 燧石矿场
 | Skuldafn | 斯库达芬 | 斯库达芬
-| Sulfur Pools Wayshrine | 硫磺池路点神龛 | 硫磺池指路祭坛
 | Capstone Cave | 顶石洞穴 | 顶石洞穴
 | Ninendava | 尼恩达瓦 | 尼恩达瓦
 | Moranda | 莫兰达 | 莫兰达
@@ -514,7 +778,6 @@
 | Rielle | 里埃勒 | 雷利
 | Sercen | 塞尔森 | 瑟肯
 | Anga | 安加 | 安嘉
-| Senie Wayshrine | 塞尼路点神龛 | 西奈指路祭坛
 | Hrotanda Vale | 赫罗坦达谷 | 赫罗坦达溪谷
 | Echo Cave | 回声洞穴 | 回声洞窟
 | Silsailen | 希尔赛兰 | 希尔莎纶
@@ -523,11 +786,7 @@
 | Empire Tower | 帝国塔 | 帝国高塔
 | Tanzelwil | 坦泽维尔 | 谭泽维尔
 | Forelhost | 皮纸主人 | 佛瑞之主
-| Riften Wayshrine | 裂谷城路点神龛 | 裂谷城指路祭坛
-| Skald's Retreat Wayshrine | 吟唱者退隐处路点神龛 | 吟游者逸处指路祭坛
-| Trolhetta Wayshrine | 特罗赫塔路点神龛 | 托尔赫挞指路祭坛
 | South Beacon | 南信标灯塔 | 南部灯塔
-| Trolhetta Summit Wayshrine | 特罗赫塔峰会路点神龛 | 托尔赫挞山巅指路祭坛
 | Lady Llarel's Shelter | 拉蕾尔夫人的避难所 | 拉蕊尔女士的避难所
 | Lower Bthanual | 下布珊努尔 | 贝撒努尔下层
 | Triple Circle Mine | 三环矿洞 | 三圆矿山
@@ -559,42 +818,14 @@
 | Sheogorath's Tongue | 谢尔格拉之舌 | 谢尔格拉之舌
 | Riften | 裂谷城 | 裂谷城
 | Fullhelm Fort | 富海姆堡 | 全盔要塞
-| West Narsis Wayshrine | 西纳西斯路点神龛 | 西纳西斯指路祭坛
-| Muth Gnaar Hills Wayshrine | 穆斯格纳尔山丘路点神龛 | 穆斯·格纳尔山丘指路祭坛
-| Quarantine Serk Wayshrine | 隔离村路点神龛 | 检疫站指路祭坛
-| Ghost Snake Vale Wayshrine | 幽灵蛇山谷路点神龛 | 幽灵蛇谷指路祭坛
-| Mournhold Wayshrine | 哀伤之城路点神龛 | 哀伤之城指路祭坛
-| Tal'Deic Grounds Wayshrine | 塔迪克地面路点神龛 | 塔尔德雷克指路祭坛
-| Obsidian Gorge Wayshrine | 黑曜石关隘路点神龛 | 黑曜石峡谷指路祭坛
-| Mzithumz Wayshrine | 姆济图姆兹路点神龛 | 姆兹苏姆指路祭坛
-| Honrich Tower Wayshrine | 亨利奇塔路点神龛 | 霍利奇塔指路祭坛
-| Selfora Wayshrine | 塞尔弗拉路点神龛 | 瑟尔夫拉指路祭坛
-| Silent Mire Wayshrine | 寂潭村路点神龛 | 寂静泥沼指路祭坛
-| Eidolon's Hollow Wayshrine | 埃多隆幽谷路点神龛 | 埃多伦洞穴指路祭坛
-| Fallowstone Hall Wayshrine | 休耕石厅路点神龛 | 休石大厅指路祭坛
-| Northwind Mine Wayshrine | 北风矿洞路点神龛 | 北风矿洞指路祭坛
-| Geirmund's Hall Wayshrine | 格尔蒙德大厅路点神龛 | 格尔曼德大厅指路祭坛
-| Taarengrav Wayshrine | 塔伦格拉夫路点神龛 | 塔伦格拉芙指路祭坛
-| Nimalten Wayshrine | 尼默滕路点神龛 | 尼莫顿指路祭坛
-| Ragged Hills Wayshrine | 参差山丘路点神龛 | 锯齿山丘指路祭坛
-| Fullhelm Fort Wayshrine | 富海姆堡垒路点神龛 | 全盔要塞指路祭坛
 | Mathiisen | 马蒂森 | 漫希尔森
 | Hoarvor Pit | 食脑虫坑洞 | 食脑虫矿坑
 | Tomb of the Apostates | 变节者之墓 | 叛教者坟墓
-| Vulkhel Guard Wayshrine | 弗克赫尔卫城路点神龛 | 弗柯尔之盾指路祭坛
 | Hall of the Dead | 亡者之厅 | 死者之厅
 | Skywatch | 天望城 | 天望城
 | Waterside Mine | 水边矿场 | 水边矿井
 | Belarata | 贝拉拉塔 | 贝拉瑞塔
 | Greenwater Cove | 碧波湾 | 绿水湾
-| Phaer Wayshrine | 法尔镇路点神龛 | 费尔指路祭坛
-| Tanzelwil Wayshrine | 坦泽维尔路点神龛 | 谭泽维尔指路祭坛
-| Firsthold Wayshrine | 第一要塞路点神龛 | 首堡指路祭坛
-| Mathiisen Wayshrine | 马蒂森路点神龛 | 漫希尔森指路祭坛
-| Skywatch Wayshrine | 天望城路点神龛 | 天望城指路祭坛
-| Quendeluun Wayshrine | 昆德伦路点神龛 | 昆德伦指路祭坛
-| College Wayshrine | 学院路点神龛 | 学院指路祭坛
-| Greenwater Wayshrine | 碧波路点神龛 | 绿水指路祭坛
 | Cracked Wood Cave | 碎木洞穴 | 裂木洞穴
 | Kingscrest Cavern | 王冠洞穴 | 众王之巅洞穴
 | Quickwater Cave | 急流洞穴 | 湍急之流洞穴
@@ -610,9 +841,6 @@
 | Belda | 贝尔达 | 贝尔达
 | Burned Estate | 烧毁的宅邸 | 烧毁的庄园
 | Weye | 维伊 | 维伊
-| Fort Zeren Wayshrine | 泽瑞堡路点神龛 | 泽伦要塞指路祭坛
-| Foyen Docks Wayshrine | 弗延码头路点神龛 | 佛耶港指路祭坛
-| Windy Glade Wayshrine | 清风林地路点神龛 | 风林空地指路祭坛
 | Library of Dusk | 黄昏图书馆 | 黄昏图书馆
 | Dawnbreak | 破晓镇 | 破晓镇
 | The Everfull Flagon | 满溢大酒壶 | 无尽酒壶
@@ -638,10 +866,6 @@
 | Root Sunder Ruins | 根之割裂废墟 | 裂断之根废墟
 | Reman's Bluff | 雷曼之诈 | 雷曼之崖
 | Bone Orchard | 骨园 | 骨园
-| Divad's Chagrin Mine Wayshrine | 迪瓦德之愤矿洞路点神龛 | 帝怀德之懊矿洞指路祭坛
-| Kulati Mines Wayshrine | 库拉提矿场路点神龛 | 库拉提矿场指路祭坛
-| Aswala Stables Wayshrine | 阿斯瓦拉马厩路点神龛 | 阿斯瓦拉马厩指路祭坛
-| Sep's Spine Wayshrine | 赛普峰路点神龛 | 蛇脊指路祭坛
 | Redolent Loam Dolmen | 芬芳之地石碑 | 芬芳沃土暗锚
 | Lagomere Dolmen | 拉戈湖石碑 | 拉格莫瑞暗锚
 | Siltreen Dolmen | 泥沟石碑 | 锡尔忒琳暗锚
@@ -671,20 +895,12 @@
 | Vinedusk Village | 藤暮村 | 黄昏之藤小村
 | Falinesti Autumn Site | 法林奈斯提秋季地 | 佛莲纳提秋之遗址
 | Port Hunding | 亨丁港 | 香丁港
-| Port Hunding Wayshrine | 亨丁港路点神龛 | 香丁港指路祭坛
 | The Grave | 坟墓 | 坟墓
 | S'ren-ja | 塞伦加 | 斯兰-加
 | Senalana | 赛纳拉那 | 瑟娜拉娜
-| Sandy Grotto Wayshrine | 沙地岩洞路点神龛 | 砂砾石窟指路祭坛
-| Saintsport Wayshrine | 圣徒港路点神龛 | 圣徒港指路祭坛
 | Dune | 沙丘城 | 沙丘城
 | Moriseli | 莫里瑟利 | 莫莱斯利
-| Wayrest Wayshrine | 途歇城路点神龛 | 途歇城指路祭坛
 | Carved Hills | 雕刻山丘 | 岩刻丘陵
-| Stonetooth Wayshrine | 石牙路点神龛 | 石牙指路祭坛
-| Grimfield Wayshrine | 格里姆菲尔德路点神龛 | 冷酷之地指路祭坛
-| Carved Hills Wayshrine | 雕刻山丘路点神龛 | 岩刻丘陵指路祭坛
-| Bonesnap Ruins Wayshrine | 碎骨废墟路点神龛 | 断骨废墟指路祭坛
 | Do'Krin Monastery | 铎库林修道院 | 多'克林修道院
 | Daenia Dolmen | 达尼亚暗锚 | 戴尼亚暗锚
 | Cambray Hills Dolmen | 康布雷山丘暗锚 | 坎伯雷丘陵暗锚
@@ -697,17 +913,6 @@
 | Carzog's Demise | 卡佐格之冢 | 卡佐格的消亡
 | Hadran's Caravan | 哈德兰的大篷车 | 哈德兰的商队
 | Bramblebreach | 荆破 | 荆棘豁口
-| Library of Dusk Wayshrine | 黄昏图书馆路点神龛 | 黄昏图书馆指路祭坛
-| Great Shackle Wayshrine | 巨型枷锁路点神龛 | 巨大锁链指路祭坛
-| The Chasm Wayshrine | 鸿沟路点神龛 | 深渊指路祭坛
-| Hollow City Wayshrine | 空洞之城路点神龛 | 虚幻之城指路祭坛
-| Endless Stair Wayshrine | 无尽阶梯路点神龛 | 无尽阶梯指路祭坛
-| Everfull Flagon Wayshrine | 满溢大酒壶路点神龛 | 无尽酒壶指路祭坛
-| Moonless Walk Wayshrine | 无月之路路点神龛 | 黑月走廊指路祭坛
-| Haj Uxith Wayshrine | 隐藏之巢路点神龛 | 哈吉·乌西斯指路祭坛
-| Manor of Revelry Wayshrine | 欢宴庄园路点神龛 | 欢宴庄园指路祭坛
-| Reaver Citadel Wayshrine | 收割者堡垒路点神龛 | 掠夺者要塞指路祭坛
-| The Orchard Wayshrine | 果园路点神龛 | 果园指路祭坛
 | Verrant Morass | 维兰特沼泽 | 维伦林沼
 | Aba-Loria | 阿巴-洛里亚 | 阿巴罗丽亚
 | The Grotto of Depravity | 堕落洞窟 | 堕落石窟
@@ -721,8 +926,6 @@
 | Temple of the Mourning Springs | 哀悼之泉神殿 | 叹息之泉神庙
 | Shattered Shoals | 破碎浅滩 | 破碎浅滩
 | Mistral | 米斯特拉尔 | 米斯裘
-| Khenarthi's Roost Wayshrine | 柯娜西之栖路点神龛 | 吉娜希之栖指路祭坛
-| Mistral Wayshrine | 米斯特拉尔路点神龛 | 米斯裘指路祭坛
 | Moonhenge | 月亮石圈阵 | 月阵
 | Cat's Eye Quay | 猫眼码头 | 猫眼码头
 | Greenhill | 绿丘镇 | 绿山
@@ -730,8 +933,6 @@
 | Driladan Pass | 德里拉丹山口 | 铎拉丹通道
 | Arenthia | 阿伦西亚 | 阿兰西亚
 | Ogre's Bluff | 食人魔树丛 | 食人魔断崖
-| Shrikes' Aerie Wayshrine | 夏克鹫巢路点神龛 | 伯劳高所指路祭坛
-| HoonDing's Watch Wayshrine | 洪丁哨岗路点神龛 | 洪丁哨所指路祭坛
 | Pa'alat | 帕阿拉特 | 帕拉特
 | Haj Uxith | 隐藏之巢 | 哈吉·乌西斯
 | Thizzrini Arena | 西兹里尼竞技场 | 希兹瑞尼竞技场
@@ -745,13 +946,11 @@
 | Hazak's Hollow | 哈扎克之谷 | 哈扎克的洞穴
 | Rawl'kha | 罗尔卡 | 罗尔'伽
 | The Orchard | 果园 | 果园
-| Shrouded Plains Wayshrine | 匿影平原路点神龛 | 笼罩平原指路祭坛
 | The Great Shackle | 巨型枷锁 | 巨型锁链
 | Spinner's Cottage | 织歌者的小屋 | 织梦者的小屋
 | The Black Forge | 黑色锻炉 | 黑熔炉
 | Seaside Sanctuary | 海滨圣所 | 海滨庇护所
 | Tears of the Dishonored | 羞辱之泪 | 耻辱之泪
-| Court of Contempt Wayshrine | 蔑视法庭路点神龛 | 蔑视之庭指路祭坛
 | Kuna's Delve | 库娜的洞穴 | 库娜洞穴
 | Thibaut's Cairn | 蒂鲍特的石冢 | 希伯特的石冢
 | Weeping Wind Cave | 悲号之风洞穴 | 风泣洞穴
@@ -773,15 +972,6 @@
 | Dawnmead Dolmen | 黎明草地暗锚 | 曙光草地暗锚
 | The Reaver Citadel | 收割者堡垒 | 掠夺者要塞
 | The Hollow City | 空洞之城 | 虚幻之城
-| Greenheart Wayshrine | 绿心镇路点神龛 | 绿荫之心指路祭坛
-| Marbruk Wayshrine | 马布鲁克路点神龛 | 玛布鲁克指路祭坛
-| Labyrinth Wayshrine | 环树迷宫路点神龛 | 迷宫指路祭坛
-| Falinesti Wayshrine | 法林奈斯提路点神龛 | 佛莲纳提指路祭坛
-| Seaside Sanctuary Wayshrine | 海滨圣所路点神龛 | 海滨庇护所指路祭坛
-| Verrant Morass Wayshrine | 维兰特沼泽路点神龛 | 维伦林沼指路祭坛
-| Woodhearth Wayshrine | 木炉城路点神龛 | 森炉城指路祭坛
-| Moonhenge Wayshrine | 月亮石圈阵路点神龛 | 月阵指路祭坛
-| Serpent's Grotto Wayshrine | 毒蛇洞窟路点神龛 | 毒蛇洞窟指路祭坛
 | Green's Marrow Dolmen | 绿之髓暗锚 | 绿之髓暗锚
 | Drowned Coast Dolmen | 沉没海岸暗锚 | 溺水海岸暗锚
 | Wilderking Court Dolmen | 荒野之王王庭暗锚 | 野王之域暗锚
@@ -790,29 +980,11 @@
 | Eyebright Feld Dolmen | 小米草草地暗锚 | 米草田地暗锚
 | Westmark Moor Dolmen | 西标沼泽暗锚 | 西痕之沼暗锚
 | Boralis Dolmen | 波拉里斯暗锚 | 博纳尼斯暗锚
-| Goat's Head Oasis Wayshrine | 羊首绿洲路点神龛 | 羊头绿洲指路祭坛
 | The Endless Stair | 无尽阶梯 | 无尽阶梯
-| Vinedusk Wayshrine | 瓦因达斯路点神龛 | 黄昏之藤指路祭坛
-| Fort Grimwatch Wayshrine | 森严哨岗堡垒路点神龛 | 凄望堡指路祭坛
-| Fort Sphinxmoth Wayshrine | 斯芬克斯莫斯堡垒路点神龛 | 斯芬克斯摩斯堡指路祭坛
-| Arenthia Wayshrine | 阿伦西亚路点神龛 | 阿兰西亚指路祭坛
 | Marbruk | 马布鲁克 | 玛布鲁克
 | Brackenleaf | 蕨叶树 | 蕨叶
 | Temple of the Ancestor Moths | 先祖圣蛾神殿 | 先祖圣蛾神庙
 | Ossuary of Telacar | 特拉卡墓园 | 蒂拉卡的人骨教堂
-| Dune Wayshrine | 沙丘城路点神龛 | 沙丘城指路祭坛
-| Willowgrove Wayshrine | 柳树林路点神龛 | 柳园指路祭坛
-| Moonmont Wayshrine | 月山路点神龛 | 双月指路祭坛
-| Rawl'kha Wayshrine | 罗尔卡路点神龛 | 罗尔'伽指路祭坛
-| S'ren-ja Wayshrine | 塞伦加路点神龛 | 斯兰-加指路祭坛
-| Elden Root Wayshrine | 艾尔登之根路点神龛 | 长者之树指路祭坛
-| Gil-Var-Delle Wayshrine | 吉尔-瓦尔-戴拉路点神龛 | 吉尔-瓦尔-代勒指路祭坛
-| Elden Root Temple Wayshrine | 艾尔登之根神殿路点神龛 | 长者之树神庙指路祭坛
-| Haven Wayshrine | 哈文港路点神龛 | 海玟港指路祭坛
-| Redfur Trading Post Wayshrine | 赤皮交易站路点神龛 | 红皮贸易站指路祭坛
-| Southpoint Wayshrine | 南据城路点神龛 | 南点指路祭坛
-| Cormount Wayshrine | 戈尔蒙特路点神龛 | 考蒙特指路祭坛
-| Ossuary Wayshrine | 藏骨堂路点神龛 | 人骨教堂指路祭坛
 | Gurzag's Mine | 古尔扎格的矿洞 | 格扎格矿洞
 | Carac Dena | 喀拉克·戴纳 | 卡瑞克·堤那
 | Naril Nagaia | 纳里尔·纳迦亚 | 纳瑞尔·纳该亚
@@ -823,12 +995,6 @@
 | Windcatcher Plantation | 捕风种植园 | 捕风者农场
 | Speckled Shell Plantation | 斑点之壳种植园 | 斑点贝壳种植园
 | Laughing Moons Plantation | 笑月种植园 | 欢月农场
-| North High Rock Gate Wayshrine | 北方高岩之门路点神龛 | 北高岩大门指路祭坛
-| South High Rock Gate Wayshrine | 南方高岩之门路点神龛 | 南高岩大门指路祭坛
-| Eastern Elsweyr Gate Wayshrine | 东方艾斯维尔之门路点神龛 | 东艾斯维尔隘指路祭坛
-| Western Elsweyr Gate Wayshrine | 西方艾斯维尔之门路点神龛 | 西艾斯维尔隘指路祭坛
-| North Morrowind Gate Wayshrine | 北方晨风之门路点神龛 | 北晨风大门指路祭坛
-| South Morrowind Gate Wayshrine | 南方晨风之门路点神龛 | 南晨风大门指路祭坛
 | Elden Root | 艾尔登之根 | 长者之树
 | Southpoint | 南据城 | 南点
 | Greenmead Dolmen | 绿草地暗锚 | 翠绿草地暗锚
@@ -848,14 +1014,12 @@
 | Tarlain Heights Dolmen | 塔莱恩高地暗锚 | 塔尔兰高地暗锚
 | Zabamat Dolmen | 扎巴玛特暗锚 | 扎巴玛特暗锚
 | Varanis Dolmen | 瓦拉尼斯暗锚 | 瓦兰尼斯暗锚
-| Eastern Evermore Wayshrine | 永恒城东部路点神龛 | 永恒城东侧指路祭坛
 | Falinesti Winter Site | 法林奈斯提冬日站点 | 佛莲纳提冬之遗址
 | Fort Sphinxmoth | 斯芬克斯莫斯堡垒 | 斯芬克斯摩斯堡
 | Karthdar | 卡思达 | 卡斯达尔
 | Redfur Trading Post | 赤皮交易站 | 红皮贸易站
 | Cloud Ruler Temple | 凌云者神庙 | 云王神庙
 | Village of the Lost | 失落村庄 | 失落村庄
-| Shad Astula Wayshrine | 沙德阿祖拉路点神龛 | 沙德·阿兹图拉指路祭坛
 | Zimar's Winery | 齐马尔的酿酒厂 | 寨玛尔的酿酒厂
 | Thalara's Winery | 萨拉拉的酿酒厂 | 萨拉拉的酿酒厂
 | Wilminn's Winery | 维尔明的酿酒厂 | 威尔敏的酿酒厂
@@ -873,10 +1037,7 @@
 | Mobar Mine | 莫巴尔矿洞 | 莫巴矿洞
 | Ice-Heart Home | 冰心的家 | 冰心的屋邸
 | The Harborage | 避难所 | 避难所
-| Halcyon Lake Wayshrine | 翡翠湖路点神龛 | 宁静湖指路祭坛
-| Gray Mire Wayshrine | 灰潭路点神龛 | 灰暗泥潭指路祭坛
 | Shurgak Clan Estate | 舒尔加克氏族庄园 | 舒伽克部族领地
-| Shrouded Pass Wayshrine | 遮蔽通道路点神龛 | 隐秘之路指路祭坛
 | Rahni'Za, School of Warriors | 战士学院拉尼扎 | 拉尼-扎，武士的学院
 | Molavar | 莫拉瓦尔 | 莫拉瓦
 | Dragonstar | 龙星城 | 龙星镇
@@ -908,18 +1069,13 @@
 | Anka-Ra's Avowal | 安卡拉的宣言 | 安卡-拉的誓言
 | Anka-Ra's Crucible | 安卡拉的磨练 | 安卡-拉的考验
 | Belkarth | 贝尔卡斯 | 贝尔卡斯
-| Seeker's Archive Wayshrine | 求索者档案馆路点神龛 | 追寻者的书库指路祭坛
-| Sandy Path Wayshrine | 沙地小径路点神龛 | 砂砾古道指路祭坛
-| Shada's Tear Wayshrine | 莎达之泪路点神龛 | 沙达之泪指路祭坛
 | Anka-Ra's Mettle | 安卡拉的勇气 | 安卡-拉的勇气
 | Fort Zeren | 泽瑞堡 | 泽伦要塞
 | Bal Foyen Dockyards | 巴尔弗延造船厂 | 佛耶之石船厂
 | Frostedge Camp | 霜之边缘营地 | 霜刃营帐
 | Hunter's Camp | 猎人营地 | 猎手营帐
 | Halmaera's House | 哈尔梅拉的房子 | 哈尔玛拉的木屋
-| Falinesti Winter Wayshrine | 法林奈斯提冬日路点神龛 | 佛莲纳提冬之指路祭坛
 | Boreal Anomaly | 北风异象 | 极寒的魔力异常点
-| Belkarth Wayshrine | 贝尔卡斯路点神龛 | 贝尔卡斯指路祭坛
 | Soulfire Plateau | 魂火高原 | 灵魂之火平原
 | Seaside Scarp Camp | 海边峭壁营地 | 海滨崖营地
 | Wreck of the Raptor | 猛禽号残骸 | 猛禽号残骸
@@ -1072,11 +1228,9 @@
 | Faltonia's Mine | 法托尼亚的矿洞 | 法尔陀尼亚矿洞
 | Falinesti Spring Site | 法林奈斯提春季场地 | 佛莲纳提春之遗址
 | Seaside Overlook | 海边瞭望点 | 海滨远眺点
-| Eyevea Wayshrine | 艾维岛路点神龛 | 艾维雅指路祭坛
 | Twin Falls Rest | 双瀑栖所 | 双子瀑布之息
 | Echo Pond | 回声池塘 | 回声池塘
 | Lanalda Pond | 兰奈达池塘 | 兰纳达池塘
-| Hag Fen Wayshrine | 鬼婆沼泽路点神龛 | 鸦婆沼泽指路祭坛
 | Hollow Den | 空洞巢穴 | 空巢
 | Arananga | 阿莱娜加 | 阿拉南伽
 | Tower Rocks Vale | 立岩山谷 | 塔岩山谷
@@ -1204,12 +1358,6 @@
 | White Fall Mountain | 白秋之山 | 雪落山脉
 | Elinhir | 爱林希尔 | 艾琳赫尔
 | Spellscar | 法术伤痕 | 咒法之痕
-| Earth Forge Wayshrine | 大地熔炉路点神龛 | 大地熔炉指路祭坛
-| Abah's Landing Wayshrine | 阿巴登陆点路点神龛 | 阿巴码头指路祭坛
-| Elinhir Wayshrine | 爱林希尔路点神龛 | 艾琳赫尔指路祭坛
-| Spellscar Wayshrine | 法术伤痕路点神龛 | 咒法之痕指路祭坛
-| Mountain Overlook Wayshrine | 山顶瞭望点路点神龛 | 山峰高台指路祭坛
-| Inazzur's Hold Wayshrine | 伊纳祖尔的要塞路点神龛 | 伊纳祖尔要塞指路祭坛
 | Proving Grounds Dolmen | 试验场暗锚 | 实验场暗锚
 | Bangkorai Gate | 班古莱之门 | 班科莱大门
 | Hei-Halai | 黑哈莱 | 黑哈莱
@@ -1255,24 +1403,12 @@
 | Rkindaleft | 瑞因达莱夫特 | 林达莱夫特
 | Frozen Fleet | 冰冻舰队 | 冰封舰队
 | Orsinium | 奥辛纽姆 | 奥辛纽姆
-| Siege Road Wayshrine | 围攻之路路点神龛 | 围攻之路指路祭坛
-| Frostbreak Ridge Wayshrine | 霜断山脊路点神龛 | 霜破山脉指路祭坛
-| Trader's Road Wayshrine | 商人之路路点神龛 | 贸易者之路指路祭坛
-| Orsinium Wayshrine | 奥辛纽姆路点神龛 | 奥辛纽姆指路祭坛
-| Shatul Wayshrine | 沙图尔路点神龛 | 沙图尔指路祭坛
-| Great Bay Wayshrine | 大海湾路点神龛 | 大海湾指路祭坛
-| Two Rivers Wayshrine | 双河路点神龛 | 双河指路祭坛
-| Icy Shore Wayshrine | 冰封海岸路点神龛 | 冰封海岸指路祭坛
-| Morkul Plain Wayshrine | 莫库尔平原路点神龛 | 莫库尔平原指路祭坛
 | Aqueduct Rock | 水管之岩 | 水渠之岩
 | Grudge-Rock Falls | 憎恨之岩瀑布 | 妒恨之岩瀑布
 | Shipwreck Cove | 沉船湾 | 沉船海窟
 | Forlorn Watchtower | 遗弃瞭望塔 | 孤凉哨塔
 | Jehanna Docks | 杰汉纳码头 | 吉哈纳码头
 | Torug's Arch | 托拉格拱门 | 塔鲁格之拱门
-| Dragonstar Wayshrine | 龙星城路点神龛 | 龙星镇指路祭坛
-| Skyreach Wayshrine | 天临路点神龛 | 天临指路祭坛
-| Valley of Scars Wayshrine | 伤痕谷路点神龛 | 伤痕溪谷指路祭坛
 | Sunken Lair | 沉没的巢穴 | 沉沦之窟
 | Skyreach Overlook | 天临瞭望点 | 天临高台
 | Crossroads Encampment | 交叉路口营地 | 十字路口营地
@@ -1307,7 +1443,6 @@
 | Malacath Statue | 玛拉卡斯雕像 | 玛拉凯斯雕像
 | Boreal Forge | 北风锻炉 | 冷冽锻坊
 | Morkuldin Forge | 莫库尔丁锻炉 | 莫库丁锻坊
-| Merchant's Gate Wayshrine | 商人之门路点神龛 | 商业关隘指路祭坛
 | General Nazenaechar | 那赞查尔将军 | 纳泽内查将军
 | General Kryozote | 克鲁佐特将军 | 卡左特将军
 | General Zamachar | 扎马查尔将军 | 扎马查将军
@@ -1340,13 +1475,7 @@
 | No Shira Citadel | 诺·什拉堡垒 | 诺·施拉要塞
 | No Shira Workshop | 诺·什拉工坊 | 诺·施拉工坊
 | Forebear's Junction | 先祖派枢纽 | 祖先派的交汇点
-| Zeht's Displeasure Wayshrine | 闷闷不乐的泽特路点神龛 | 兹特之哀指路祭坛
-| No Shira Citadel Wayshrine | 诺·什拉堡垒路点神龛 | 诺·施拉要塞指路祭坛
 | Placations of Zeht | 泽特之抚 | 兹特之慰
-| Anvil Wayshrine | 铁砧城路点神龛 | 安维尔指路祭坛
-| Kvatch Wayshrine | 科瓦奇路点神龛 | 科瓦奇指路祭坛
-| Strid River Wayshrine | 斯特里德河流路点神龛 | 窄谷河口指路祭坛
-| Gold Coast Wayshrine | 黄金海岸路点神龛 | 黄金海岸指路祭坛
 | Kvatch | 科瓦奇 | 科瓦奇
 | Anvil | 铁砧城 | 安维尔
 | Hrota Cave | 赫罗塔洞穴 | 赫罗塔洞穴
@@ -1373,10 +1502,8 @@
 | Pulk | 帕尔克 | 普克
 | Nchuleft | 纳曲莱夫特 | 纳曲莱夫特
 | Vos | 沃斯 | 沃司
-| West Gash Wayshrine | 西部峡谷路点神龛 | 西境之痕指路祭坛
 | Tel Aruhn | 泰尔阿鲁因 | 泰尔·阿汝因
 | Sadrith Mora | 沙迪斯莫拉 | 撒迪尔斯·莫拉
-| Urshilaku Camp Wayshrine | 厄施拉库营地路点神龛 | 厄施拉库营地指路祭坛
 | Suran | 苏兰 | 苏兰
 | Balmora | 巴莫拉 | 巴尔莫拉
 | Nilthog's Hollow | 尼尔索格的幽谷 | 尼尔萨格的巢穴
@@ -1384,17 +1511,6 @@
 | Missir-Dadalit Egg Mine | 米希尔-达达利特蛋矿 | 米锡尔-达达利特蛋矿坑
 | Dubdil Alar Tower | 杜比迪尔·阿拉尔塔 | 达布迪尔·阿拉尔之塔
 | Salothan's Council | 塞洛珊的议会 | 萨罗珊议会
-| Gnisis Wayshrine | 吉尼西斯路点神龛 | 尼希斯指路祭坛
-| Ald'ruhn Wayshrine | 奥德鲁恩路点神龛 | 傲德'汝因指路祭坛
-| Balmora Wayshrine | 巴莫拉路点神龛 | 巴尔莫拉指路祭坛
-| Seyda Neen Wayshrine | 赛达尼恩路点神龛 | 辛达·尼指路祭坛
-| Suran Wayshrine | 苏兰路点神龛 | 苏兰指路祭坛
-| Molag Mar Wayshrine | 莫拉格玛尔路点神龛 | 莫拉格·玛尔指路祭坛
-| Tel Branora Wayshrine | 泰尔布拉诺拉路点神龛 | 泰尔·巴兰诺拉指路祭坛
-| Vivec City Wayshrine | 维威克城路点神龛 | 维威克城指路祭坛
-| Nchuleftingth Wayshrine | 纳曲莱夫庭斯路点神龛 | 纳曲莱夫庭斯指路祭坛
-| Tel Mora Wayshrine | 泰尔莫拉路点神龛 | 泰尔·莫拉指路祭坛
-| Sadrith Mora Wayshrine | 沙迪斯莫拉路点神龛 | 撒迪尔斯·莫拉指路祭坛
 | Seyda Neen | 赛达尼恩 | 辛达·尼
 | Nchuleftingth | 纳曲莱夫庭斯 | 纳曲莱夫庭斯
 | Forgotten Wastes | 遗忘废墟 | 遗忘荒地
@@ -1416,7 +1532,6 @@
 | Erabenimsun Camp | 艾拉卜尼姆桑营地 | 艾拉卜尼姆桑营地
 | Tel Galen | 泰尔加仑 | 泰尔·盖伦
 | Hammerdeath Arena | 锤亡竞技场 | 死锤竞技场
-| Valley of the Wind Wayshrine | 风之谷路点神龛 | 风之谷指路祭坛
 | Molag Mar | 莫拉格玛尔 | 莫拉格·玛尔
 | Vivec City | 维威克城 | 维威克城
 | Yasammidin | 雅萨米丹遗迹 | 雅萨姆米丹
@@ -1466,15 +1581,11 @@
 | Hunding's Palatial Hall | 亨汀的殿堂 | 香丁的宏伟殿堂
 | House of the Silent Magnifico | 沉默贵族之家 | “静谧的荣光”居所
 | Twin Arches | 双拱 | 双拱顶沙屋
-| Vivec Temple Wayshrine | 维威克神庙路点神龛 | 维威克神龛指路祭坛
 | Earthtear Cavern | 大地之泪洞穴 | “地之痕”洞窟
 | Grand Topal Hideaway | 大托帕尔藏身处 | 大托帕尔藏身处
 | Valenvaryon | 瓦伦瓦里昂 | 维伦瓦尔扬
 | Halls of Regulation | 调节厅 | 监管大厅
 | The Shadow Cleft | 暗影裂隙 | 暗影裂痕
-| Brass Fortress Wayshrine | 黄铜堡垒路点神龛 | 黄铜要塞指路祭坛
-| Clockwork Crossroads Wayshrine | 发条城交叉路口路点神龛 | 发条十字路口指路祭坛
-| Mire Mechanica Wayshrine | 机械沼泽路点神龛 | 机械沼泽指路祭坛
 | Everwound Wellspring | 永伤源泉 | 永伤源泉
 | Mnemonic Planisphere | 藏忆星穹 | 记忆天体仪
 | The Orbservatory Prior | 前观测站 | 最初观测站
@@ -1488,7 +1599,6 @@
 | Mire Mechanica | 机械沼泽 | 机械泥沼
 | The Brass Fortress | 黄铜堡垒 | 黄铜要塞
 | Barilzar's Eighth Laboratory | 巴里尔扎尔的八号实验室 | 巴黎扎的第八实验室
-| Sanctuary Wayshrine | 圣所路点神龛 | 庇护所指路祭坛
 | Shimmerene | 希姆莫伦 | 微光城
 | Direnni Acropolis | 第仁尼卫城 | 笛伦尼卫城
 | Russafeld | 绯红圣地 | 鲁萨菲尔德
@@ -1501,12 +1611,6 @@
 | Illumination Academy | 启明学院 | 启明学院
 | Corgrad Wastes | 科尔格拉德遗迹 | 科格拉德荒地
 | Lillandril | 利兰德里尔 | 利兰迪尔
-| King's Haven Pass Wayshrine | 国王港隘口路点神龛 | 国王之港通道指路祭坛
-| Shimmerene Wayshrine | 希姆莫伦路点神龛 | 微光城指路祭坛
-| Sil-Var-Woad Wayshrine | 席尔瓦沃德路点神龛 | 希尔-瓦-沃德指路祭坛
-| Russafeld Heights Wayshrine | 绯红圣地顶部路点神龛 | 鲁萨菲尔德高地指路祭坛
-| Cey-Tarn Keep Wayshrine | 塞伊·塔恩要塞路点神龛 | 塞伊山泉堡垒指路祭坛
-| Ebon Stadmont Wayshrine | 黑檀斯塔德蒙特路点神龛 | 黑檀迷阵指路祭坛
 | King's Haven Pass | 国王港隘口 | 国王之港通道
 | Eton Nir Grotto | 艾顿尼尔洞穴 | 伊东尼尔洞窟
 | Archon's Grove | 执政官树林 | 神使花园
@@ -1523,17 +1627,12 @@
 | Indrik Frolic | 灵鹿乐园 | 巨犀鹿嬉戏场
 | Shimmerene Dockworks | 希姆莫伦码头区 | 微光城船坞工厂
 | Augury Basin | 占卜水池 | 占卜盆地
-| Eldbur Ruins Wayshrine | 艾德布尔废墟路点神龛 | 埃尔德堡废墟指路祭坛
 | Cathedral of Webs | 蛛网大教堂 | 蛛网大教堂
 | Alinor Docks | 阿里诺尔码头 | 艾琳诺码头
 | Ald Mora Ruins | 埃德莫拉废墟 | 傲德莫拉废墟
 | Gryphon Aerie | 狮鹫巢 | 狮鹫高所
 | Keep of the Eleven Forces | 十一重力要塞 | 十一力量堡垒
 | Garden of the Sacred Numbers | 神圣数字花园 | 圣数花园
-| Alinor Wayshrine | 阿里诺尔路点神龛 | 艾琳诺指路祭坛
-| Lillandril Wayshrine | 利兰德里尔路点神龛 | 利兰迪尔指路祭坛
-| Eastern Pass Wayshrine | 东部山道路点神龛 | 东部通道指路祭坛
-| The Crystal Tower Wayshrine | 水晶塔路点神龛 | 水晶塔指路祭坛
 | Sil-Var-Woad Abyssal Geyser | 席尔瓦沃德深渊间歇泉 | 希尔-瓦-沃德深渊间歇泉
 | Restricted Brassworks | 管制铜炉 | 受限的黄铜造物
 | The Refurbishing Yard | 翻新的庭院 | 翻新之院
@@ -1548,7 +1647,6 @@
 | Eldbur Ruins | 艾德布尔废墟 | 埃尔德堡废墟
 | Artaeum Craftworks | 阿蒂姆工艺坊 | 阿塔姆工坊
 | Ceporah Tower | 塞波拉塔 | 赛波拉塔
-| Artaeum Wayshrine | 阿蒂姆路点神龛 | 阿塔姆指路祭坛
 | Traitor's Vault | 叛徒的宝库 | 叛徒密室
 | Scalecaller Peak | 唤鳞者之巅 | 唤鳞者之巅
 | Corgrad Abyssal Geyser | 科尔格拉德深渊间歇泉 | 科格拉德深渊间歇泉
@@ -1556,27 +1654,21 @@
 | Princely Dawnlight Palace | 高贵曙光殿 | 王子的曙光之殿
 | The Erstwhile Sanctuary | 昔日圣所 | 昔日圣所
 | Dusk Keep | 黄昏要塞 | 黄昏堡垒
-| Sunhold Wayshrine | 太阳要塞路点神龛 | 阳曦城指路祭坛
 | Moon Hunter Keep | 月狩要塞 | 月狩要塞
 | March of Sacrifices | 献祭之境 | 祭品游行
 | Alaxon'ald | 阿拉克松尔德 | 亚历克松傲德
-| Veyond Wyte Wayshrine | 维扬怀特路点神龛 | 维昂德·怀特指路祭坛
 | Sunhold Abyssal Geyser | 太阳要塞深渊间歇泉 | 阳曦城深渊间歇泉
 | Colosseum of the Old Ways | 古道竞技场 | 古老之道竞技场
 | Lilmoth | 利尔莫斯 | 利尔蒙斯
 | Bright-Throat Village | 亮喉村 | 明喉村
 | Dead-Water Village | 冥潭村 | 死水村
 | Alten Meerhleel | 米尔希尔港 | 亚尔藤·蒙赫利尔
-| Lilmoth Wayshrine | 利尔莫斯路点神龛 | 利尔蒙斯指路祭坛
-| Bright-Throat Wayshrine | 亮喉路点神龛 | 明喉指路祭坛
-| Dead-Water Wayshrine | 冥潭路点神龛 | 死水指路祭坛
 | Bok-Xul | 波克-许尔 | 波克-许尔
 | Echoing Hollow | 回声幽谷 | 回声洞穴
 | Tsofeer Cavern | 特索费尔洞穴 | 措菲尔洞窟
 | Teeth of Sithis | 西帝斯之牙 | 西帝斯之齿
 | The Dominus Fatum | 命运号 | 全民之命
 | Ruined Guardhouse | 破败的哨塔 | 荒废的警卫室
-| Root-Whisper Wayshrine | 根语者路点神龛 | 根吟指路祭坛
 | Root-Whisper Village | 根语村 | 根吟村
 | Ruined Village | 村庄废墟 | 荒废的村庄
 | Deep Swamp Forge | 幽深沼泽锻炉 | 深沼熔炉
@@ -1586,7 +1678,6 @@
 | Alinor Crest Townhouse | 阿里诺尔饰章别墅 | 艾琳诺山顶别墅
 | Colossal Aldmeri Grotto | 古精灵巨窟 | 巨型先祖神洲洞窟
 | Path of the Lily | 百合花试炼之路 | 百合之路
-| Blackrose Prison Wayshrine | 黑玫瑰监狱路点神龛 | 黑玫瑰监狱指路祭坛
 | Hunter's Glade | 猎人沼泽 | 猎人森域
 | Grand Psijic Villa | 豪华塞伊克别墅 | 赛伊克宏伟庄园
 | The Bone Pit | 骨坑 | 骨坑
@@ -1622,13 +1713,6 @@
 | Sleepy Senche Mine | 沉睡森切矿洞 | 沉睡森祛矿井
 | Defense Force Outpost | 守军前哨 | 防卫队前哨
 | Sandswirl Manor | 沙漩庄园 | 沙涡庄园
-| Riverhold Wayshrine | 河堡镇路点神龛 | 河堡城指路祭坛
-| Rimmen Wayshrine | 瑞门路点神龛 | 雷蒙指路祭坛
-| The Stitches Wayshrine | 史迪奇路点神龛 | 刺绣镇指路祭坛
-| Tenmar Temple Wayshrine | 滕玛尔神庙路点神龛 | 藤茂神庙指路祭坛
-| Star Haven Wayshrine | 星港路点神龛 | 星港指路祭坛
-| Scar's End Wayshrine | 伤痕尽头路点神龛 | 疤痕之末指路祭坛
-| Hakoshae Wayshrine | 哈柯夏路点神龛 | 哈科西指路祭坛
 | Desert Wind Caverns | 沙漠之风洞穴 | 沙漠之风洞穴
 | Enchanted Snow Globe Home | 附魔雪球屋 | 魔法雪辉房屋
 | Valenwood Gate | 瓦伦伍德之门 | 维兰森林大门
@@ -1638,12 +1722,6 @@
 | Sugar Bowl Suite | 糖碗套房 | 糖碗套房
 | Jode's Embrace | 乔德之拥 | 乔德的拥抱
 | Hall of the Lunar Champion | 月之勇士大厅 | 月光勇士大厅
-| Senchal Wayshrine | 森查尔路点神龛 | 森察指路祭坛
-| South Guard Ruins Wayshrine | 南部守卫遗迹路点神龛 | 南部驻地废墟指路祭坛
-| Western Plains Wayshrine | 西部平原路点神龛 | 西部平原指路祭坛
-| Black Heights Wayshrine | 黑色高地路点神龛 | 黑色高地指路祭坛
-| Pridehome Wayshrine | 骄傲之家路点神龛 | 狮傲堂指路祭坛
-| Dragonguard Sanctum Wayshrine | 龙卫圣所路点神龛 | 龙卫圣所指路祭坛
 | Senchal | 森查尔 | 森察
 | South Guard Ruins | 南部守卫废墟 | 南部驻地废墟
 | Black Heights | 黑色高地 | 黑色高地
@@ -1676,10 +1754,6 @@
 | Dusktown | 黄昏镇 | 黄昏城
 | Greymoor Keep | 灰沼要塞 | 灰沼主堡
 | The Lightless Hollow | 无光幽谷 | 无光洞穴
-| Dusktown Wayshrine | 黄昏镇路点神龛 | 黄昏城指路祭坛
-| Greymoor Keep Wayshrine | 灰沼要塞路点神龛 | 灰沼主堡指路祭坛
-| Lightless Hollow Wayshrine | 无光幽谷路点神龛 | 无光洞穴指路祭坛
-| Dark Moon Grotto Wayshrine | 暗月洞窟路点神龛 | 暗月石窟指路祭坛
 | Dark Moon Grotto | 暗月洞窟 | 暗月石窟
 | Karthald Great Lift | 卡尔萨德大升降机 | 卡萨尔德升降机
 | Hjaalmarch Great Lift | 亚尔边境大升降机 | 哈加尔玛什升降机
@@ -1690,15 +1764,8 @@
 | Midnight Barrow | 午夜地穴 | 午夜古坟
 | The Scraps | 废料洞穴 | 废料
 | Lucky Cat Landing | 幸运猫咪之屋 | 幸运猫的落脚处
-| Kilkreath Temple Wayshrine | 柯克里斯神庙路点神龛 | 基尔克瑞斯神庙指路祭坛
-| Morthal Wayshrine | 莫萨尔城路点神龛 | 莫萨尔指路祭坛
-| Mor Khazgur Wayshrine | 莫·卡兹古尔路点神龛 | 莫尔·卡兹古尔指路祭坛
 | Potentate's Retreat | 首席谋士的静修庄园 | 君王的隐居处
-| Dragon Bridge Wayshrine | 龙桥路点神龛 | 龙桥指路祭坛
-| Southern Watch Wayshrine | 南哨岗路点神龛 | 南望指路祭坛
-| Frozen Coast Wayshrine | 冰冻海岸路点神龛 | 冰冻海岸指路祭坛
 | Dragonguard Armory | 龙卫军械库 | 龙卫军械库
-| Solitude Wayshrine | 独孤城路点神龛 | 独孤城指路祭坛
 | Hordrek's Hunting Grounds | 的霍德雷克狩猎场 | 霍德雷克的狩猎场
 | Ysmgar's Beach | 伊斯加沙滩 | 伊斯加尔的海滩
 | Circle of Champions | 勇士之环 | 勇士之环
@@ -1725,8 +1792,6 @@
 | Cropsford Armory | 克罗普斯福特军械库 | 麦穗浅滩兵工坊
 | Vlastarus Armory | 瓦拉斯塔努斯军械库 | 瓦拉斯塔鲁斯军械库
 | Bruma Armory | 布鲁玛军械库 | 布鲁玛兵工坊
-| Solitude Docks Wayshrine | 独孤城码头路点神龛 | 独孤城港口指路祭坛
-| Deepwood Vale Wayshrine | 深林谷路点神龛 | 深木溪谷指路祭坛
 | Snowmelt Suite | 雪融套房 | 融雪套房
 | Proudspire Manor | 傲矛别墅 | 傲矛别墅
 | Deepwood Giant Camp | 深林巨人营地 | 深木巨人营地
@@ -1734,10 +1799,6 @@
 | Hunter's House | 猎手之家 | 猎人的家
 | Dragon's Belly | 龙腹 | 龙腹
 | Parasite's Cave | 帕拉斯特洞穴 | 寄生虫之洞
-| Dwarven Run Wayshrine | 锻莫跑道路点神龛 | 锻莫之行指路祭坛
-| Grotto Falls Wayshrine | 石窟瀑布路点神龛 | 石窟瀑布指路祭坛
-| Deep Overlook Wayshrine | 深邃瞭望点路点神龛 | 深处眺望点指路祭坛
-| Western Greymoor Wayshrine | 灰沼西区路点神龛 | 灰沼西部指路祭坛
 | Markarth | 马卡斯城 | 玛卡斯
 | Karthwasten | 卡斯威斯腾 | 卡瓦斯滕
 | Four Skull Lookout | 四颅瞭望点 | 四颅哨所
@@ -1760,11 +1821,6 @@
 | Lost Valley Redoubt | 失落山谷堡垒 | 失落溪谷碉堡
 | Gloomreach | 格洛瑞驰 | 微光之岸
 | Cinder-Heart Clan Camp | 灰烬之心氏族营地 | 渣心氏族营地
-| North Markarth Wayshrine | 马卡斯城北部路点神龛 | 北玛卡斯指路祭坛
-| Karthwasten Wayshrine | 卡斯威斯腾路点神龛 | 卡瓦斯滕指路祭坛
-| Briar Rock Wayshrine | 荆棘岩路点神龛 | 棘石指路祭坛
-| Rebel's Retreat Wayshrine | 反抗军藏身处路点神龛 | 叛徒的寓所指路祭坛
-| Lost Valley Wayshrine | 失落山谷路点神龛 | 失落溪谷指路祭坛
 | Shadefeather Clan Camp | 影羽氏族营地 | 影羽氏族营地
 | Black-Moon Clan Camp | 黑月氏族营地 | 黑月氏族营地
 | Hroldan Ring | 赫罗丹之环 | 赫罗丹之环
@@ -1780,15 +1836,9 @@
 | Bthar-Zel | 巴塔·扎尔 | 布萨尔-泽尔
 | Sentinel Point | 哨兵据点 | 哨点
 | Nighthollow Keep | 夜谷要塞 | 夜之洞堡垒
-| Druadach Mountains Wayshrine | 逐达奇山峦路点神龛 | 德拉达奇山指路祭坛
-| Arkthzand Wayshrine | 阿克赞德路点神龛 | 阿克斯赞指路祭坛
-| Nighthollow Wayshrine | 夜谷路点神龛 | 夜之洞指路祭坛
 | Philosopher's Cradle | 贤者的摇篮 | 哲人摇篮
 | Ghostlight Grotto | 鬼火洞穴 | 鬼光石窟
-| Markarth Wayshrine | 马卡斯城路点神龛 | 玛卡斯指路祭坛
 | Mistgloom Thicket | 幽雾丛林 | 暗雾丛林
-| Giant's Coast Wayshrine | 巨人海岸路点神龛 | 巨人海岸指路祭坛
-| Northern Watch Wayshrine | 北部戍所路点神龛 | 北望指路祭坛
 | Antiquarian's Alpine Gallery | 鉴宝者的高山长廊 | 考古家的高山走廊
 | Stillwaters Retreat | 静水清居 | 静水寓所
 | Shalidor's Shrouded Realm | 沙利多的主宰领域 | 沙利多的遮蔽领域
@@ -1812,7 +1862,6 @@
 | Sul-Xan Ritual Site | 苏尔山仪式地 | 苏尔-仙仪式地点
 | Welke | 韦尔克 | 维尔克
 | Bloodrun Cave | 血途洞穴 | 血奔洞穴
-| Bloodrun Wayshrine | 血途路点神龛 | 血奔指路祭坛
 | Farmer's Nook | 农夫之角 | 农夫角
 | Old Deathwart's Pond | 老死瘤的池塘 | 老死疣的池塘
 | Salvitto Estate | 萨尔维托庄园 | 萨尔维托庄园
@@ -1827,27 +1876,14 @@
 | Stonewastes | 屑石村 | 废石
 | The Shattered Xanmeer | 破碎的石巢神庙 | 破碎的珊米尔
 | Xi-Tsei | 西·提赛 | 希-塞
-| Leyawiin Wayshrine | 乐雅文路点神龛 | 利雅文指路祭坛
-| Gideon Wayshrine | 吉德昂路点神龛 | 吉迪昂指路祭坛
-| Borderwatch Wayshrine | 边境守望路点神龛 | 边望指路祭坛
-| Fort Redmane Wayshrine | 红鬃堡路点神龛 | 红鬃堡指路祭坛
-| Blueblood Wayshrine | 蓝血路点神龛 | 蓝血指路祭坛
-| Stonewastes Wayshrine | 屑石村路点神龛 | 废石指路祭坛
 | Kushalit Sanctuary | 库沙利特圣所 | 库沙利圣所
 | Varlaisvea Ayleid Ruins | 瓦尔拉索拉野精灵废墟 | 瓦莱斯韦亚历德废墟
-| Leyawiin Outskirts Wayshrine | 乐雅文郊区路点神龛 | 利雅文近郊指路祭坛
 | Pentric Run | 潘崔克庄园 | 潘特里克之道
 | Sariellen's Sword | 塞瑞伦的剑 | 萨瑞伦之剑
 | Withered Root | 枯萎之根 | 枯萎之根
 | Pilgrim's Rest | 朝圣者的栖所 | 朝圣者之息
 | Water's Edge | 水之锋 | 水畔屋
 | Pantherfang Chapel | 豹牙教堂 | 豹牙教堂
-| Raging Coast Wayshrine | 愤怒海岸路点神龛 | 狂怒海岸指路祭坛
-| The Blood Pit Wayshrine | 鲜血深坑路点神龛 | 血坑指路祭坛
-| Ardent Hope Wayshrine | 热切之希望路点神龛 | 炽热之望指路祭坛
-| Wretched Spire Wayshrine | 恶毒尖刺路点神龛 | 悲惨尖塔指路祭坛
-| False Martyrs' Folly Wayshrine | 虚假的殉道者愚行路点神龛 | 虚伪殉徒之愚指路祭坛
-| Annihilarch's Summit Wayshrine | 安妮希拉驰顶峰路点神龛 | 寂灭之巅指路祭坛
 | The Blood Pit | 鲜血深坑 | 血坑
 | Burning Gyre Keep | 燃烧旋转要塞 | 燃涡碉堡
 | Ardent Hope | 热切之希望 | 炽热之望
@@ -1861,10 +1897,6 @@
 | Portal to Fargrave | 通往法格雷夫的传送门 | 遥墓城传送门
 | The Deadlands | 死地 | 死地
 | Ayleid Well | 野精灵之井 | 亚历德魔法井
-| Doomvault Vulpinaz Wayshrine | 诡计末日密库路点神龛 | 毁灭密室废墟指路祭坛
-| Blackwood Crossroads Wayshrine | 黑木交叉路口路点神龛 | 黑森林十字路口指路祭坛
-| Hutan-Tzel Wayshrine | 胡坦泽尔路点神龛 | 胡坦-蔡尔指路祭坛
-| Vunalk Wayshrine | 乌纳克路点神龛 | 瓦纳尔克指路祭坛
 | Doomchar Plateau | 杜姆查高原 | 毁灭焦土高原
 | Sweetwater Cascades | 甜水瀑布 | 甘流瀑布
 | Castle Navire | 纳维尔城堡 | 纳维尔城堡
@@ -1891,19 +1923,9 @@
 | Dark Stone Hollow | 黑石山谷 | 暗石洞穴
 | Amenos Basin | 阿梅诺斯水池 | 阿蒙诺斯盆地
 | Mornard Falls | 莫尔纳德瀑布 | 莫纳德瀑布
-| Coral Road Wayshrine | 珊瑚路路点神龛 | 珊瑚之路指路祭坛
-| Tor Draioch Wayshrine | 托尔·达奥奇路点神龛 | 德莱欧驰岩岭指路祭坛
-| Steadfast Manor Wayshrine | 坚固庄园路点神龛 | 坚毅庄园指路祭坛
-| Castle Navire Wayshrine | 纳维尔城堡路点神龛 | 纳维尔城堡指路祭坛
-| Garick's Rest Wayshrine | 加里克栖所路点神龛 | 加瑞克之息指路祭坛
-| Stonelore Grove Wayshrine | 石刻之识树林路点神龛 | 石学树林指路祭坛
-| Dufort Shipyards Wayshrine | 度佛特船厂路点神龛 | 杜福特船坞指路祭坛
-| Amenos Station Wayshrine | 阿梅诺斯休息站路点神龛 | 阿蒙诺斯驻地指路祭坛
-| Brokerock Wayshrine | 碎石路点神龛 | 碎岩指路祭坛
 | Stonelore Forge and Craft | 石刻之识锻造工艺坊 | 石学熔造
 | Steadfast Hammer and Saw | 忠坚的锤和锯 | 坚毅之锤与锯
 | Hidden Foundry | 隐藏的铸造厂 | 隐藏铸造所
-| All Flags Wayshrine | 全旗路点神龛 | 全旗指路祭坛
 | Sapphire Point Volcanic Vent | 萨菲瑞点火山口 | 蓝宝石之尖火山喷口
 | Navire Volcanic Vent | 纳维尔火山口 | 纳维尔火山喷口
 | Feywatch Isle Volcanic Vent | 费瓦奇岛火山口 | 玄望岛火山喷口
@@ -1911,21 +1933,17 @@
 | Serpents Hollow Volcanic Vent | 巨蛇洞火山口 | 毒蛇洞穴火山喷口
 | Haunted Coast Volcanic Vent | 亡灵海岸火山口 | 闹鬼海岸火山喷口
 | Flooded Coast Volcanic Vent | 洪水海岸火山口 | 浸没海岸火山喷口
-| Trappers Peak Wayshrine | 诱捕者之峰路点神龛 | 诱捕者之峰指路祭坛
 | Spriggan's Crown | 树精的林冠 | 树精之冠
 | Port Navire | 纳维尔港 | 纳维尔港
 | Druid's Gate | 德鲁伊的大门 | 德鲁伊之门
 | Gonfalon Head Lighthouse | 贡法隆第一灯塔 | 旌旗之顶灯塔
-| Westbay Wayshrine | 西海湾路点神龛 | 西海湾指路祭坛
 | Abhain Chapel | 阿伯海因教堂 | 阿宾教堂
 | Augury Monoliths | 占卜巨石阵 | 预言之石
 | Jheury's Cove | 杰胡里海湾 | 杰瑞湾
 | Dufort Shipyards | 度佛特船厂 | 杜福特船坞
-| Gonfalon Square Wayshrine | 贡法隆广场路点神龛 | 旌旗广场指路祭坛
 | Stormwright's Cleft | 风暴制造者的裂缝 | 风暴作俑者的裂缝
 | The Razorworks | 剃刀工厂 | 剃刀工坊
 | Forgotten Feretory | 遗忘圣骨神龛 | 被遗忘的骨箱
-| Fargrave Outskirts Wayshrine | 法格雷夫郊区路点神龛 | 遥墓城近郊指路祭坛
 | Ossa Accentium | 奥萨·阿森提姆庄园 | 骨之修堂
 | Agony's Ascent | 阿贡尼飞升地 | 痛楚之坡
 | Fargrave | 法格雷夫 | 遥墓城
@@ -1938,13 +1956,7 @@
 | The Bathhouse | 澡堂 | 浴房
 | Zynoahz's Gaol | 芝诺亚兹的监牢 | 兹诺阿兹的监狱
 | Jynd's Foundry | 基尼德的铸造厂 | 贾恩德的铸造所
-| The Shambles Wayshrine | 肉铺街路点神龛 | 屠宰场指路祭坛
-| Wounded Crossing Wayshrine | 受伤之路路点神龛 | 创伤岔口指路祭坛
-| The Scourshales Wayshrine | 冲击岩路点神龛 | 冲刷岩地指路祭坛
-| Fargrave Wayshrine | 法格雷夫路点神龛 | 遥墓城指路祭坛
 | Seaveil Spire | 海之面纱尖塔 | 海纱尖塔
-| Serpents Hollow Wayshrine | 巨蛇洞穴路点神龛 | 毒蛇洞穴指路祭坛
-| Flooded Coast Wayshrine | 洪水海岸路点神龛 | 浸没海岸指路祭坛
 | Ancient Anchor Berth | 古锚小居 | 先祖锚地
 | Highhallow Hold | 至圣堡 | 高圣堡垒
 | Y'ffre's Path | 耶弗尔之路 | -
@@ -1976,13 +1988,6 @@
 | Albatross Leap | 信天翁展翅 | 信天翁之跃
 | Colossus View Lighthouse | 巨像灯塔 | 巨像观光灯塔
 | Stonelore Falls | 石刻之识瀑布 | 石学瀑布
-| Vastyr Outskirts Wayshrine | 瓦斯提尔郊区路点神龛 | -
-| Glimmertarn Wayshrine | 光湖路点神龛 | -
-| Embervine Wayshrine | 灰烬藤路点神龛 | -
-| Llanshara Wayshrine | 兰沙拉路点神龛 | -
-| Y'free's Path Wayshrine | 耶弗尔之路路点神龛 | -
-| Vastyr Wayshrine | 瓦斯提尔路点神龛 | -
-| Eastern Shores Wayshrine | 东部海岸路点神龛 | -
 
 ## 技能
 
