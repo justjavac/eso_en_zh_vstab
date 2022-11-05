@@ -108,6 +108,14 @@
 | Trial: Rockgrove | 试炼：石林 | 试炼：石林
 | Trial: Dreadsail Reef | 试炼：恐帆礁石 | 试炼：惧帆暗礁
 
+## 竞技场
+
+| 英文 | 官中 | 微攻略
+| --- | --- | ---
+| Arena: Maelstrom | 竞技场：漩涡 | 竞技场：大漩涡
+| Arena: Blackrose Prison | 竞技场：黑玫瑰监狱 | 竞技场：黑玫瑰监狱
+| Arena: Vateshran Hollows | 竞技场：瓦特什兰洞穴 | 竞技场：维特斯兰洞穴
+
 ## 地点
 
 | 英文 | 官中 | 微攻略
@@ -1300,7 +1308,6 @@
 | Boreal Forge | 北风锻炉 | 冷冽锻坊
 | Morkuldin Forge | 莫库尔丁锻炉 | 莫库丁锻坊
 | Merchant's Gate Wayshrine | 商人之门路点神龛 | 商业关隘指路祭坛
-| Arena: Maelstrom | 竞技场：漩涡 | 竞技场：大漩涡
 | General Nazenaechar | 那赞查尔将军 | 纳泽内查将军
 | General Kryozote | 克鲁佐特将军 | 卡左特将军
 | General Zamachar | 扎马查尔将军 | 扎马查将军
@@ -1559,7 +1566,6 @@
 | Lilmoth | 利尔莫斯 | 利尔蒙斯
 | Bright-Throat Village | 亮喉村 | 明喉村
 | Dead-Water Village | 冥潭村 | 死水村
-| Arena: Blackrose Prison | 竞技场：黑玫瑰监狱 | 竞技场：黑玫瑰监狱
 | Alten Meerhleel | 米尔希尔港 | 亚尔藤·蒙赫利尔
 | Lilmoth Wayshrine | 利尔莫斯路点神龛 | 利尔蒙斯指路祭坛
 | Bright-Throat Wayshrine | 亮喉路点神龛 | 明喉指路祭坛
@@ -1749,7 +1755,6 @@
 | Bthardamz | 撒达姆兹 | 布萨达姆兹
 | Red Eagle Redoubt | 红鹰据点 | 红鹰碉堡
 | Reachwind Depths | 瑞驰之风深洞 | 岸风深渊
-| Arena: Vateshran Hollows | 竞技场：瓦特什兰洞穴 | 竞技场：维特斯兰洞穴
 | Wildspear Clan Camp | 野矛氏族营地 | 野矛氏族营地
 | Valthume | 瓦尔图梅 | 伏特休姆
 | Lost Valley Redoubt | 失落山谷堡垒 | 失落溪谷碉堡

@@ -80,6 +80,17 @@ ${
     .join("\n")
 }
 
+## 竞技场
+
+| 英文 | 官中 | 微攻略
+| --- | --- | ---
+${
+  [...en2zh["10860933"]]
+    .filter(([en]) => en.startsWith("Arena:"))
+    .map(([en, zh]) => `| ${en} | ${zh} | ${en2vstab.get(en) ?? "-"}`)
+    .join("\n")
+}
+
 ## 地点
 
 | 英文 | 官中 | 微攻略
@@ -88,6 +99,7 @@ ${
   [...en2zh["10860933"]]
     .filter(([en]) => !en.startsWith("Dungeon:"))
     .filter(([en]) => !en.startsWith("Trial:"))
+    .filter(([en]) => !en.startsWith("Arena:"))
     .map(([en, zh]) => `| ${en} | ${zh} | ${en2vstab.get(en) ?? "-"}`)
     .join("\n")
 }
