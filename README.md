@@ -42,6 +42,56 @@
 | High Isle | 高岛 | 高岛
 | Galen | 伽林 | -
 
+## 副本
+
+| 英文 | 官中 | 微攻略
+| --- | --- | ---
+| Dungeon: Wayrest Sewers I | 地牢：途歇城下水道 I | 副本：途歇城下水道 I
+| Dungeon: Elden Hollow I | 地牢：艾尔登洞穴 I | 副本：长者洞穴 I
+| Dungeon: Crypt of Hearts I | 地牢：心灵地穴 I | 副本：心之墓穴 I
+| Dungeon: Fungal Grotto I | 地牢：真菌岩洞 I | 副本：真菌石窟 I
+| Dungeon: Spindleclutch I | 地牢：蛛丝之握洞穴 I | 副本：纺锤迷宫 I
+| Dungeon: Darkshade Caverns I | 地牢：暗影洞穴 I | 副本：暗影洞窟 I
+| Dungeon: Arx Corinium | 地牢：科林涅姆堡垒 | 副本：科林涅姆堡垒
+| Dungeon: The Banished Cells I | 地下城：放逐地牢 I | 副本：放逐密室 I
+| Dungeon: Blessed Crucible | 地牢：受佑熔炉 | 副本：神圣的考验
+| Dungeon: Tempest Island | 地牢：风暴岛 | 副本：风暴岛
+| Dungeon: Blackheart Haven | 地牢：黑心港口 | 副本：黑心港
+| Dungeon: Direfrost Keep | 地牢：恐霜要塞 | 副本：严霜堡垒
+| Dungeon: Volenfell | 地牢：沃伦费尔 | 副本：沃伦费尔
+| Dungeon: Selene's Web | 地牢：夕月之网 | 副本：塞勒涅之网
+| Dungeon: City of Ash I | 地牢：灰烬之城 I | 副本：灰烬之城 I
+| Dungeon: Vaults of Madness | 地牢：疯狂密室 | 副本：疯狂密室
+| Dungeon: Imperial City Prison | 地牢：帝都监狱 | 副本：帝都监狱
+| Dungeon: White-Gold Tower | 地牢：白金塔 | 副本：白金塔
+| Dungeon: Ruins of Mazzatun | 地牢：谜城遗迹 | 副本：马扎顿废墟
+| Dungeon: Cradle of Shadows | 地牢：暗影摇篮 | 副本：暗影之源
+| Dungeon: The Banished Cells II | 地下城：放逐地牢 II | 副本：放逐密室 II
+| Dungeon: Elden Hollow II | 地牢：艾尔登洞穴 II | 副本：长者洞穴 II
+| Dungeon: Wayrest Sewers II | 地牢：途歇城下水道 II | 副本：途歇城下水道 II
+| Dungeon: Fungal Grotto II | 地牢：真菌岩洞 II | 副本：真菌石窟 II
+| Dungeon: Crypt of Hearts II | 地牢：心灵地穴 II | 副本：心之墓穴 II
+| Dungeon: Spindleclutch II | 地牢：蛛丝之握洞穴 II | 副本：纺锤迷宫 II
+| Dungeon: City of Ash II | 地牢：灰烬之城 II | 副本：灰烬之城 II
+| Dungeon: Bloodroot Forge | 地牢：血根熔炉 | 副本：血根熔炉
+| Dungeon: Falkreath Hold | 地牢：佛克瑞斯领地 | 副本：佛克瑞斯要塞
+| Dungeon: Frostvault | 地牢：冰霜宝库 | 副本：霜冻密室
+| Dungeon: Depths of Malatar | 地牢：马拉塔深渊 | 副本：玛拉塔深渊
+| Dungeon: Moongrave Fane | 地牢：月墓神庙 | 副本：月墓神殿
+| Dungeon: Lair of Maarselok | 地牢：马塞洛克巢穴 | 副本：马塞洛克之巢
+| Dungeon: Icereach | 地牢：冰境 | 副本：冰岸
+| Dungeon: Unhallowed Grave | 地牢：污邪之冢 | 副本：不洁墓窟
+| Dungeon: Stone Garden | 地牢：石之花园 | 副本：乱石庭院
+| Dungeon: Castle Thorn | 地牢：荆棘城堡 | 副本：荆棘城堡
+| Dungeon: Black Drake Villa | 地牢：黑德雷克庄园 | 副本：黑龙山庄
+| Dungeon: The Cauldron | 地牢：大釜 | 副本：仪式巨釜
+| Dungeon: Red Petal Bastion | 地牢：红花堡 | 副本：红瓣堡垒
+| Dungeon: The Dread Cellar | 地下城：恐惧地牢 | 副本：恐惧地窖
+| Dungeon: Coral Aerie | 地牢：珊瑚鹫巢 | 副本：珊瑚禽巢
+| Dungeon: Shipwright's Regret | 地下城：船工之憾地牢 | 副本：船匠之憾
+| Dungeon: Earthen Root Enclave | 地牢：地根飞地 | 副本：地根营地
+| Dungeon: Graven Deep | 地牢：铭深岛 | 副本：坟墓之渊
+
 ## 地点
 
 | 英文 | 官中 | 微攻略
@@ -155,7 +205,6 @@
 | Kragenmoor | 凯根摩尔 | 凯根摩尔
 | Obsidian Scar | 黑曜石伤痕 | 黑曜石之痕
 | Tal'Deic Fortress | 塔迪克堡垒 | 塔尔德雷克要塞
-| Dungeon: Wayrest Sewers I | 地牢：途歇城下水道 I | 副本：途歇城下水道 I
 | Bonesnap Ruins | 碎骨废墟 | 断骨废墟
 | Razak's Wheel | 拉扎克之轮 | 拉赞卡之轮
 | Hissmir | 希斯米尔 | 希斯米尔
@@ -180,10 +229,8 @@
 | Selfora | 塞尔弗拉 | 瑟尔夫拉
 | Bogmother | 沼母 | 沼泽之母
 | Mud Tree Village | 泥树村 | 泥树村
-| Dungeon: Elden Hollow I | 地牢：艾尔登洞穴 I | 副本：长者洞穴 I
 | Forsaken Hamlet | 遗弃之村 | 遗弃村庄
 | Hatching Pools | 孵化池 | 韵生池
-| Dungeon: Crypt of Hearts I | 地牢：心灵地穴 I | 副本：心之墓穴 I
 | Crow's Wood | 乌鸦之森 | 乌鸦森林
 | Sunscale Strand | 日鳞海滩 | 阳鳞海滨
 | Percolating Mire | 渗透沼泽 | 渗透沼泽
@@ -344,7 +391,6 @@
 | The Warrior | 战神 | 战士
 | Nornalhorst | 诺纳霍斯特 | 诺瑙尔地垒
 | The Ritual | 仪式 | 仪式
-| Dungeon: Fungal Grotto I | 地牢：真菌岩洞 I | 副本：真菌石窟 I
 | Shrine of the Black Maw | 黑暗巨口神龛 | 黑渊之祠
 | Broken Tusk | 破碎獠牙 | 断牙
 | Atanaz Ruins | 阿塔纳兹废墟 | 亚塔纳兹废墟
@@ -448,9 +494,6 @@
 | Hrotanda Vale | 赫罗坦达谷 | 赫罗坦达溪谷
 | Echo Cave | 回声洞穴 | 回声洞窟
 | Silsailen | 希尔赛兰 | 希尔莎纶
-| Dungeon: Spindleclutch I | 地牢：蛛丝之握洞穴 I | 副本：纺锤迷宫 I
-| Dungeon: Darkshade Caverns I | 地牢：暗影洞穴 I | 副本：暗影洞窟 I
-| Dungeon: Arx Corinium | 地牢：科林涅姆堡垒 | 副本：科林涅姆堡垒
 | Lindai | 林岱 | 琳戴
 | Coldcorn Ruin | 冷谷遗迹 | 寒角废墟
 | Empire Tower | 帝国塔 | 帝国高塔
@@ -598,9 +641,7 @@
 | Bthzark | 布扎克 | 巴德扎克
 | Alcaire Dolmen | 阿尔凯瑞暗锚 | 阿尔卡亚暗锚
 | Gavaudon Dolmen | 加瓦乌登暗锚 | 伽瓦尔敦暗锚
-| Dungeon: The Banished Cells I | 地下城：放逐地牢 I | 副本：放逐密室 I
 | Moonmont | 月山 | 双月
-| Dungeon: Blessed Crucible | 地牢：受佑熔炉 | 副本：神圣的考验
 | Rulanyil's Fall | 鲁兰伊尔之堕 | 陆兰伊尔之殇
 | Menevia Dolmen | 梅内维亚暗锚 | 曼尼威亚暗锚
 | Vinedusk Village | 藤暮村 | 黄昏之藤小村
@@ -620,7 +661,6 @@
 | Grimfield Wayshrine | 格里姆菲尔德路点神龛 | 冷酷之地指路祭坛
 | Carved Hills Wayshrine | 雕刻山丘路点神龛 | 岩刻丘陵指路祭坛
 | Bonesnap Ruins Wayshrine | 碎骨废墟路点神龛 | 断骨废墟指路祭坛
-| Dungeon: Tempest Island | 地牢：风暴岛 | 副本：风暴岛
 | Do'Krin Monastery | 铎库林修道院 | 多'克林修道院
 | Daenia Dolmen | 达尼亚暗锚 | 戴尼亚暗锚
 | Cambray Hills Dolmen | 康布雷山丘暗锚 | 坎伯雷丘陵暗锚
@@ -653,7 +693,6 @@
 | The Wailing Maw | 悲号之口 | 哀号深渊
 | Shademist Moors | 影雾沼泽 | 雾影荒原
 | Tower of Lies | 谎言之塔 | 谎言之塔
-| Dungeon: Blackheart Haven | 地牢：黑心港口 | 副本：黑心港
 | Eagle's Strand | 鹰栖崖堡 | 雄鹰海岸
 | Temple of the Mourning Springs | 哀悼之泉神殿 | 叹息之泉神庙
 | Shattered Shoals | 破碎浅滩 | 破碎浅滩
@@ -685,8 +724,6 @@
 | Shrouded Plains Wayshrine | 匿影平原路点神龛 | 笼罩平原指路祭坛
 | The Great Shackle | 巨型枷锁 | 巨型锁链
 | Spinner's Cottage | 织歌者的小屋 | 织梦者的小屋
-| Dungeon: Direfrost Keep | 地牢：恐霜要塞 | 副本：严霜堡垒
-| Dungeon: Volenfell | 地牢：沃伦费尔 | 副本：沃伦费尔
 | The Black Forge | 黑色锻炉 | 黑熔炉
 | Seaside Sanctuary | 海滨圣所 | 海滨庇护所
 | Tears of the Dishonored | 羞辱之泪 | 耻辱之泪
@@ -729,7 +766,6 @@
 | Eyebright Feld Dolmen | 小米草草地暗锚 | 米草田地暗锚
 | Westmark Moor Dolmen | 西标沼泽暗锚 | 西痕之沼暗锚
 | Boralis Dolmen | 波拉里斯暗锚 | 博纳尼斯暗锚
-| Dungeon: Selene's Web | 地牢：夕月之网 | 副本：塞勒涅之网
 | Goat's Head Oasis Wayshrine | 羊首绿洲路点神龛 | 羊头绿洲指路祭坛
 | The Endless Stair | 无尽阶梯 | 无尽阶梯
 | Vinedusk Wayshrine | 瓦因达斯路点神龛 | 黄昏之藤指路祭坛
@@ -759,13 +795,11 @@
 | The Underroot | 根下洞穴 | 底根
 | Harridan's Lair | 哈里丹的巢穴 | 老妇巢穴
 | Barrow Trench | 弃矿深沟 | 弃矿沟渠
-| Dungeon: City of Ash I | 地牢：灰烬之城 I | 副本：灰烬之城 I
 | Laeloria | 莱洛里亚 | 利洛瑞亚
 | Windcatcher Plantation | 捕风种植园 | 捕风者农场
 | Speckled Shell Plantation | 斑点之壳种植园 | 斑点贝壳种植园
 | Laughing Moons Plantation | 笑月种植园 | 欢月农场
 | North High Rock Gate Wayshrine | 北方高岩之门路点神龛 | 北高岩大门指路祭坛
-| Dungeon: Vaults of Madness | 地牢：疯狂密室 | 副本：疯狂密室
 | South High Rock Gate Wayshrine | 南方高岩之门路点神龛 | 南高岩大门指路祭坛
 | Eastern Elsweyr Gate Wayshrine | 东方艾斯维尔之门路点神龛 | 东艾斯维尔隘指路祭坛
 | Western Elsweyr Gate Wayshrine | 西方艾斯维尔之门路点神龛 | 西艾斯维尔隘指路祭坛
@@ -1230,7 +1264,6 @@
 | Ladder to Arboretum | 通往植物园的梯子 | 植物园梯子
 | Sewer Entrance | 下水道入口 | 下水道入口
 | Friendship Gate | 友谊之门 | 友谊关隘
-| Dungeon: Imperial City Prison | 地牢：帝都监狱 | 副本：帝都监狱
 | Ladder to Nobles District | 通往贵族区的梯子 | 贵族区梯子
 | Ladder to Elven Gardens | 通往精灵花园的梯子 | 精灵花园区梯子
 | Ebral the Betrayer | 背叛者厄布拉尔 | 背叛者艾布拉尔
@@ -1250,7 +1283,6 @@
 | Nobles Armory | 贵族武器库 | 贵族区军械库
 | Memorial Armory | 纪念武器库 | 纪念馆区军械库
 | Merchant's Gate | 商人之门 | 商业关隘
-| Dungeon: White-Gold Tower | 地牢：白金塔 | 副本：白金塔
 | Malacath Statue | 玛拉卡斯雕像 | 玛拉凯斯雕像
 | Boreal Forge | 北风锻炉 | 冷冽锻坊
 | Morkuldin Forge | 莫库尔丁锻炉 | 莫库丁锻坊
@@ -1312,7 +1344,6 @@
 | Marja's Mill | 玛尔加的磨坊 | 马尔加的磨坊
 | Strid River Artisans Camp | 斯特里德河工匠营地 | 窄谷河口的工匠营地
 | Colovian Revolt Forge Yard | 克罗维亚反抗铸造厂 | 科洛文叛军的锻造厂
-| Dungeon: Ruins of Mazzatun | 地牢：谜城遗迹 | 副本：马扎顿废墟
 | Kvatch Arena | 科瓦奇竞技场 | 科瓦奇竞技场
 | Dark Brotherhood Sanctuary | 黑暗兄弟会圣所 | 黑暗圣所
 | Gnisis | 吉尼西斯 | 尼希斯
@@ -1356,7 +1387,6 @@
 | Marandus | 玛兰达斯据点 | 玛蓝达斯
 | Randas Ancestral Tomb | 兰达斯先祖之坟 | 安达斯祖坟
 | Zergonipal | 泽尔戈尼帕 | 泽贡尼泊
-| Dungeon: Cradle of Shadows | 地牢：暗影摇篮 | 副本：暗影之源
 | Ald'ruhn | 奥德鲁恩 | 傲德'汝因
 | Vassir-Didanat Mine | 瓦希尔·迪达纳特矿场 | 瓦锡尔-迪达奈特矿洞
 | Ald Carac | 埃德·喀拉克 | 喀拉克遗址
@@ -1367,14 +1397,7 @@
 | Zainab Camp | 扎伊纳布营地 | 寨纳卜营地
 | Erabenimsun Camp | 艾拉卜尼姆桑营地 | 艾拉卜尼姆桑营地
 | Tel Galen | 泰尔加仑 | 泰尔·盖伦
-| Dungeon: The Banished Cells II | 地下城：放逐地牢 II | 副本：放逐密室 II
-| Dungeon: Elden Hollow II | 地牢：艾尔登洞穴 II | 副本：长者洞穴 II
-| Dungeon: Wayrest Sewers II | 地牢：途歇城下水道 II | 副本：途歇城下水道 II
-| Dungeon: Fungal Grotto II | 地牢：真菌岩洞 II | 副本：真菌石窟 II
-| Dungeon: Crypt of Hearts II | 地牢：心灵地穴 II | 副本：心之墓穴 II
-| Dungeon: Spindleclutch II | 地牢：蛛丝之握洞穴 II | 副本：纺锤迷宫 II
 | Hammerdeath Arena | 锤亡竞技场 | 死锤竞技场
-| Dungeon: City of Ash II | 地牢：灰烬之城 II | 副本：灰烬之城 II
 | Valley of the Wind Wayshrine | 风之谷路点神龛 | 风之谷指路祭坛
 | Molag Mar | 莫拉格玛尔 | 莫拉格·玛尔
 | Vivec City | 维威克城 | 维威克城
@@ -1428,8 +1451,6 @@
 | Vivec Temple Wayshrine | 维威克神庙路点神龛 | 维威克神龛指路祭坛
 | Earthtear Cavern | 大地之泪洞穴 | “地之痕”洞窟
 | Grand Topal Hideaway | 大托帕尔藏身处 | 大托帕尔藏身处
-| Dungeon: Bloodroot Forge | 地牢：血根熔炉 | 副本：血根熔炉
-| Dungeon: Falkreath Hold | 地牢：佛克瑞斯领地 | 副本：佛克瑞斯要塞
 | Valenvaryon | 瓦伦瓦里昂 | 维伦瓦尔扬
 | Halls of Regulation | 调节厅 | 监管大厅
 | The Shadow Cleft | 暗影裂隙 | 暗影裂痕
@@ -1551,8 +1572,6 @@
 | Colossal Aldmeri Grotto | 古精灵巨窟 | 巨型先祖神洲洞窟
 | Path of the Lily | 百合花试炼之路 | 百合之路
 | Blackrose Prison Wayshrine | 黑玫瑰监狱路点神龛 | 黑玫瑰监狱指路祭坛
-| Dungeon: Frostvault | 地牢：冰霜宝库 | 副本：霜冻密室
-| Dungeon: Depths of Malatar | 地牢：马拉塔深渊 | 副本：玛拉塔深渊
 | Hunter's Glade | 猎人沼泽 | 猎人森域
 | Grand Psijic Villa | 豪华塞伊克别墅 | 赛伊克宏伟庄园
 | The Bone Pit | 骨坑 | 骨坑
@@ -1599,8 +1618,6 @@
 | Enchanted Snow Globe Home | 附魔雪球屋 | 魔法雪辉房屋
 | Valenwood Gate | 瓦伦伍德之门 | 维兰森林大门
 | Lakemire Xanmeer Manor | 泥潭湖石巢神庙庄园 | 湖沼珊米尔宅邸
-| Dungeon: Moongrave Fane | 地牢：月墓神庙 | 副本：月墓神殿
-| Dungeon: Lair of Maarselok | 地牢：马塞洛克巢穴 | 副本：马塞洛克之巢
 | Trial: Sunspire | 试炼：太阳尖顶 | 试炼：阳尖城
 | Elinhir Private Arena | 爱林希尔私人竞技场 | 艾琳赫尔私人竞技场
 | Frostvault Chasm | 冰霜宝库裂隙 | 霜冻密室裂缝
@@ -1609,8 +1626,6 @@
 | Hall of the Lunar Champion | 月之勇士大厅 | 月光勇士大厅
 | Senchal Wayshrine | 森查尔路点神龛 | 森察指路祭坛
 | South Guard Ruins Wayshrine | 南部守卫遗迹路点神龛 | 南部驻地废墟指路祭坛
-| Dungeon: Icereach | 地牢：冰境 | 副本：冰岸
-| Dungeon: Unhallowed Grave | 地牢：污邪之冢 | 副本：不洁墓窟
 | Western Plains Wayshrine | 西部平原路点神龛 | 西部平原指路祭坛
 | Black Heights Wayshrine | 黑色高地路点神龛 | 黑色高地指路祭坛
 | Pridehome Wayshrine | 骄傲之家路点神龛 | 狮傲堂指路祭坛
@@ -1688,8 +1703,6 @@
 | Karthald Giant Camp | 卡尔萨德巨人营地 | 卡萨尔德巨人营地
 | Kilkreath Giant Camp | 柯克里斯巨人营地 | 基尔克瑞斯巨人营地
 | Highland Giant Camp | 高地巨人营地 | 高地巨人营地
-| Dungeon: Stone Garden | 地牢：石之花园 | 副本：乱石庭院
-| Dungeon: Castle Thorn | 地牢：荆棘城堡 | 副本：荆棘城堡
 | Gloomforest Ritual Site | 幽暗之森仪式地 | 幽暗森林仪式地点
 | Dwarf's Bane Ritual Site | 矮人克星仪式地 | 锻莫灾星仪式地点
 | Miner's Lament Ritual Site | 矿工挽歌仪式地 | 矿工之悲仪式地点
@@ -1750,8 +1763,6 @@
 | Darkrise Overlook | 黑升瞭望点 | 黑升远眺点
 | Gloomstalker Village | 幽猎村 | 幽暗追迹者小镇
 | Mor Khazgur Giant Camp | 莫·卡兹古尔巨人营地 | 莫尔·卡兹古尔巨人营地
-| Dungeon: Black Drake Villa | 地牢：黑德雷克庄园 | 副本：黑龙山庄
-| Dungeon: The Cauldron | 地牢：大釜 | 副本：仪式巨釜
 | Nchuand-Zel | 楚安德-泽尔废墟 | 恩川德-泽尔
 | Library of Arkthzand | 阿克赞德图书馆 | 阿克斯赞图书馆
 | Bthar-Zel | 巴塔·扎尔 | 布萨尔-泽尔
@@ -1817,8 +1828,6 @@
 | Pentric Run | 潘崔克庄园 | 潘特里克之道
 | Sariellen's Sword | 塞瑞伦的剑 | 萨瑞伦之剑
 | Withered Root | 枯萎之根 | 枯萎之根
-| Dungeon: Red Petal Bastion | 地牢：红花堡 | 副本：红瓣堡垒
-| Dungeon: The Dread Cellar | 地下城：恐惧地牢 | 副本：恐惧地窖
 | Pilgrim's Rest | 朝圣者的栖所 | 朝圣者之息
 | Water's Edge | 水之锋 | 水畔屋
 | Pantherfang Chapel | 豹牙教堂 | 豹牙教堂
@@ -1846,8 +1855,6 @@
 | Hutan-Tzel Wayshrine | 胡坦泽尔路点神龛 | 胡坦-蔡尔指路祭坛
 | Vunalk Wayshrine | 乌纳克路点神龛 | 瓦纳尔克指路祭坛
 | Doomchar Plateau | 杜姆查高原 | 毁灭焦土高原
-| Dungeon: Coral Aerie | 地牢：珊瑚鹫巢 | 副本：珊瑚禽巢
-| Dungeon: Shipwright's Regret | 地下城：船工之憾地牢 | 副本：船匠之憾
 | Sweetwater Cascades | 甜水瀑布 | 甘流瀑布
 | Castle Navire | 纳维尔城堡 | 纳维尔城堡
 | Steadfast Manor | 忠坚庄园 | 坚毅庄园
@@ -1928,8 +1935,6 @@
 | Seaveil Spire | 海之面纱尖塔 | 海纱尖塔
 | Serpents Hollow Wayshrine | 巨蛇洞穴路点神龛 | 毒蛇洞穴指路祭坛
 | Flooded Coast Wayshrine | 洪水海岸路点神龛 | 浸没海岸指路祭坛
-| Dungeon: Earthen Root Enclave | 地牢：地根飞地 | 副本：地根营地
-| Dungeon: Graven Deep | 地牢：铭深岛 | 副本：坟墓之渊
 | Ancient Anchor Berth | 古锚小居 | 先祖锚地
 | Highhallow Hold | 至圣堡 | 高圣堡垒
 | Y'ffre's Path | 耶弗尔之路 | -

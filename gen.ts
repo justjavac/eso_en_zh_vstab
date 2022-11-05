@@ -58,17 +58,37 @@ const output = `# 上古卷轴 OL 中英文对照表（英文 vs 官中 vs 微�
 | --- | --- | ---
 ${[...en2zh["4330293"]].map(([en, zh]) => `| ${en} | ${zh} | ${en2vstab.get(en) ?? "-"}`).join("\n")}
 
+## 副本
+
+| 英文 | 官中 | 微攻略
+| --- | --- | ---
+${
+  [...en2zh["10860933"]]
+    .filter(([en]) => en.startsWith("Dungeon:"))
+    .map(([en, zh]) => `| ${en} | ${zh} | ${en2vstab.get(en) ?? "-"}`)
+    .join("\n")
+}
+
 ## 地点
 
 | 英文 | 官中 | 微攻略
 | --- | --- | ---
-${[...en2zh["10860933"]].map(([en, zh]) => `| ${en} | ${zh} | ${en2vstab.get(en) ?? "-"}`).join("\n")}
+${
+  [...en2zh["10860933"]]
+    .filter(([en]) => !en.startsWith("Dungeon:"))
+    .map(([en, zh]) => `| ${en} | ${zh} | ${en2vstab.get(en) ?? "-"}`)
+    .join("\n")
+}
 
 ## 技能
 
 | 英文 | 官中 | 微攻略
 | --- | --- | ---
-${[...en2zh["17915077"]].map(([en, zh]) => `| ${en} | ${zh} | ${en2vstab.get(en) ?? "-"}`).join("\n")}
+${
+  [...en2zh["17915077"]]
+    .map(([en, zh]) => `| ${en} | ${zh} | ${en2vstab.get(en) ?? "-"}`)
+    .join("\n")
+}
 `;
 
 await Deno.writeTextFile("./README.md", output);
